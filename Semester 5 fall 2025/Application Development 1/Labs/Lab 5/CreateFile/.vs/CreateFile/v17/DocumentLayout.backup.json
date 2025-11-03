@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\CreateFile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7131359F-3EFC-46A5-ABDD-ED02ACC1D2E8}|CreateFile\\CreateFile.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\CreateFile\\createfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7131359F-3EFC-46A5-ABDD-ED02ACC1D2E8}|CreateFile\\CreateFile.csproj|solutionrelative:createfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CreateFile||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7131359F-3EFC-46A5-ABDD-ED02ACC1D2E8}|CreateFile\\CreateFile.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 5\\createfile\\createfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7131359F-3EFC-46A5-ABDD-ED02ACC1D2E8}|CreateFile\\CreateFile.csproj|solutionrelative:createfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7131359F-3EFC-46A5-ABDD-ED02ACC1D2E8}|CreateFile\\CreateFile.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 5\\createfile\\createfile\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\CreateFile\\CreateFile\\Form1.cs",
+              "RelativeDocumentMoniker": "CreateFile\\Form1.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\CreateFile\\CreateFile\\Form1.cs",
+              "RelativeToolTip": "CreateFile\\Form1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwFsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:27:47.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateFile",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\CreateFile\\CreateFile\\CreateFile.csproj",
+              "RelativeDocumentMoniker": "CreateFile\\CreateFile.csproj",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\CreateFile\\CreateFile\\CreateFile.csproj",
+              "RelativeToolTip": "CreateFile\\CreateFile.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-28T18:16:52.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\CreateFile\\CreateFile\\Form1.cs",
+              "RelativeDocumentMoniker": "CreateFile\\Form1.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\CreateFile\\CreateFile\\Form1.cs [Design]",
+              "RelativeToolTip": "CreateFile\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:11:07.507Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

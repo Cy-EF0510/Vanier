@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\RadioButtonTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C0855B-3BA4-4AFF-AF28-516E8EED89E6}|RadioButtonTest\\RadioButtonTest.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 3\\textbookworks\\radiobuttontest\\radiobuttontest\\radiobuttontestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C0855B-3BA4-4AFF-AF28-516E8EED89E6}|RadioButtonTest\\RadioButtonTest.csproj|solutionrelative:radiobuttontest\\radiobuttontestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C0855B-3BA4-4AFF-AF28-516E8EED89E6}|RadioButtonTest\\RadioButtonTest.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 3\\textbookworks\\radiobuttontest\\radiobuttontest\\radiobuttontestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C0855B-3BA4-4AFF-AF28-516E8EED89E6}|RadioButtonTest\\RadioButtonTest.csproj|solutionrelative:radiobuttontest\\radiobuttontestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RadioButtonTestForm.cs [Design]",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\RadioButtonTest\\RadioButtonTest\\RadioButtonTestForm.cs",
+              "RelativeDocumentMoniker": "RadioButtonTest\\RadioButtonTestForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\RadioButtonTest\\RadioButtonTest\\RadioButtonTestForm.cs [Design]",
+              "RelativeToolTip": "RadioButtonTest\\RadioButtonTestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:29:09.072Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RadioButtonTestForm.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\RadioButtonTest\\RadioButtonTest\\RadioButtonTestForm.cs",
+              "RelativeDocumentMoniker": "RadioButtonTest\\RadioButtonTestForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\RadioButtonTest\\RadioButtonTest\\RadioButtonTestForm.cs",
+              "RelativeToolTip": "RadioButtonTest\\RadioButtonTestForm.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:08:42.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

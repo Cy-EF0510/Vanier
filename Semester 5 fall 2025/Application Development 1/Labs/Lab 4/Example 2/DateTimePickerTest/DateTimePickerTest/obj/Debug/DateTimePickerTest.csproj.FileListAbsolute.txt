@@ -1,0 +1,11 @@
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 2\DateTimePickerTest\DateTimePickerTest\bin\Debug\Fig14_11(DateTIME2ndfig).exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 2\DateTimePickerTest\DateTimePickerTest\bin\Debug\Fig14_11(DateTIME2ndfig).exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 2\DateTimePickerTest\DateTimePickerTest\bin\Debug\Fig14_11(DateTIME2ndfig).pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 2\DateTimePickerTest\DateTimePickerTest\obj\Debug\DateTimePickerTest.csproj.AssemblyReference.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 2\DateTimePickerTest\DateTimePickerTest\obj\Debug\DateTimePickerTest.DateTimePickerForm.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 2\DateTimePickerTest\DateTimePickerTest\obj\Debug\DateTimePickerTest.Properties.Resources.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 2\DateTimePickerTest\DateTimePickerTest\obj\Debug\DateTimePickerTest.csproj.GenerateResource.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 2\DateTimePickerTest\DateTimePickerTest\obj\Debug\DateTimePickerTest.csproj.CoreCompileInputs.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 2\DateTimePickerTest\DateTimePickerTest\obj\Debug\Fig14_11(DateTIME2ndfig).exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 2\DateTimePickerTest\DateTimePickerTest\obj\Debug\Fig14_11(DateTIME2ndfig).pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 2\DateTimePickerTest\DateTimePickerTest\obj\Debug\Fig14_11(DateTIME2ndfig).exe.config

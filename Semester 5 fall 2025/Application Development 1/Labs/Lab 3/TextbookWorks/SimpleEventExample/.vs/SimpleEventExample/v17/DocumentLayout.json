@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\SimpleEventExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2927F9DC-5396-4EFC-9036-36FA4D609878}|SimpleEventExample\\SimpleEventExample.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 3\\textbookworks\\simpleeventexample\\simpleeventexample\\simpleeventexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2927F9DC-5396-4EFC-9036-36FA4D609878}|SimpleEventExample\\SimpleEventExample.csproj|solutionrelative:simpleeventexample\\simpleeventexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2927F9DC-5396-4EFC-9036-36FA4D609878}|SimpleEventExample\\SimpleEventExample.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 3\\textbookworks\\simpleeventexample\\simpleeventexample\\simpleeventexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2927F9DC-5396-4EFC-9036-36FA4D609878}|SimpleEventExample\\SimpleEventExample.csproj|solutionrelative:simpleeventexample\\simpleeventexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2927F9DC-5396-4EFC-9036-36FA4D609878}|SimpleEventExample\\SimpleEventExample.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\SimpleEventExample\\simpleeventexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2927F9DC-5396-4EFC-9036-36FA4D609878}|SimpleEventExample\\SimpleEventExample.csproj|solutionrelative:simpleeventexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleEventExampleForm.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\SimpleEventExample\\SimpleEventExample\\SimpleEventExampleForm.cs",
+              "RelativeDocumentMoniker": "SimpleEventExample\\SimpleEventExampleForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\SimpleEventExample\\SimpleEventExample\\SimpleEventExampleForm.cs",
+              "RelativeToolTip": "SimpleEventExample\\SimpleEventExampleForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:12:57.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleEventExampleForm.cs [Design]",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\SimpleEventExample\\SimpleEventExample\\SimpleEventExampleForm.cs",
+              "RelativeDocumentMoniker": "SimpleEventExample\\SimpleEventExampleForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\SimpleEventExample\\SimpleEventExample\\SimpleEventExampleForm.cs [Design]",
+              "RelativeToolTip": "SimpleEventExample\\SimpleEventExampleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T18:55:19.061Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\SimpleEventExample\\SimpleEventExample\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleEventExample\\Program.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\SimpleEventExample\\SimpleEventExample\\Program.cs",
+              "RelativeToolTip": "SimpleEventExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T18:54:58.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

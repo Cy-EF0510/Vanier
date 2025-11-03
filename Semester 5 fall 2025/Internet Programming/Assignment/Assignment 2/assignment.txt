@@ -1,0 +1,89 @@
+For the provided HTML file, add a css file names 'style.css'.
+
+for all body, h1, h1, h2, p and ul elements:
+	no margin on all sides
+	no padding on all sides
+	
+for the body:
+	the text's font family: 'Arial, sans-serif'
+	a line height of 1.6
+	a light grey background
+	black text
+	
+for the header:
+	black background
+	white text
+	20px padding at the top and bottom
+	text-align: center;
+	
+for the footer:
+  text-align: center;
+  top and bottom padding of 15px
+  right and left padding of 0;
+  black background
+  white text
+	
+for the unordered list within the nav element:
+	top margin of 10px
+	list-style: none;
+	display: flex;
+	justify-content: center;
+	
+for the list items in unordered lists within the nav element:
+	left and right margins of 15px
+	
+for the link in the list items of unordered lists within the nav element:
+	white text color
+	no underline
+	
+for the main element:
+	20px of padding all around
+	  max-width: 1000px;
+	20px of margin at the top and bottom
+	auto margin on left and right
+	white background
+	
+for all 'services-container' class elements:
+  display: flex;
+  top margin of 20px
+  
+for all 'services-card' class elements:
+  min-width: 250px;
+  light grey background color
+  padding of 15px
+  border-radius: 8px;
+  margin of 12px
+ 
+for all 'contact-form' class elements:
+  flex-direction: column;
+  display: flex;
+  max-width: 500px;
+
+for all inputs and all textareas nested in 'contact-form' class elements:
+  padding of 10px
+  font-size of 1rem;
+  a solid light grey border of 1px
+  border-radius: 4px;
+  a bottom margin of 20px;
+
+for all buttons nested in 'contact-form' class elements:
+  width: fit-content;
+  a padding of 10px at the top and bottom
+  a padding of 20px on the left and right
+  black background color
+  white text
+  no border
+  cursor: pointer;
+  border-radius: 4px;
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

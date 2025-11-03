@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Exams\\FaborCyrilEfrenProblem1\\Practical Midterm Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A14B7-5CEB-47CF-9AAA-3995B2BCB10C}|Practical Midterm Exam\\Practical Midterm Exam.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\exams\\faborcyrilefrenproblem1\\practical midterm exam\\practical midterm exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A14B7-5CEB-47CF-9AAA-3995B2BCB10C}|Practical Midterm Exam\\Practical Midterm Exam.csproj|solutionrelative:practical midterm exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A14B7-5CEB-47CF-9AAA-3995B2BCB10C}|Practical Midterm Exam\\Practical Midterm Exam.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Exams\\FaborCyrilEfrenProblem1\\Practical Midterm Exam\\practical midterm exam\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A14B7-5CEB-47CF-9AAA-3995B2BCB10C}|Practical Midterm Exam\\Practical Midterm Exam.csproj|solutionrelative:practical midterm exam\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Exams\\FaborCyrilEfrenProblem1\\Practical Midterm Exam\\Practical Midterm Exam\\Weather.cs",
+              "RelativeDocumentMoniker": "Practical Midterm Exam\\Weather.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Exams\\FaborCyrilEfrenProblem1\\Practical Midterm Exam\\Practical Midterm Exam\\Weather.cs",
+              "RelativeToolTip": "Practical Midterm Exam\\Weather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T14:06:32.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Exams\\FaborCyrilEfrenProblem1\\Practical Midterm Exam\\Practical Midterm Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Practical Midterm Exam\\Program.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Exams\\FaborCyrilEfrenProblem1\\Practical Midterm Exam\\Practical Midterm Exam\\Program.cs",
+              "RelativeToolTip": "Practical Midterm Exam\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T14:02:54.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

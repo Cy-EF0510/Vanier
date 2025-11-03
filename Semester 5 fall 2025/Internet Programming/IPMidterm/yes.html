@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="yes.css">
+    <title>Jane Doe</title>
+</head>
+<body>
+    <div id="page">
+        <header>
+            <img id="profile" src="pictures\profile.jpg">
+            <h1>Jane Doe</h1>
+            Frontend Developer | UI/UX Enthusiast | Creative Coder
+            <nav>
+                <ul>
+                    <!-- <li>About</li>
+                    <li>Projects</li>
+                    <li>Conact</li> -->
+                    <li><a href="/about/">About</a></li>
+                    <li><a href="/projects/">Projects</a></li>
+                    <li><a href="/contact/">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <h2>About Me</h2>
+            <p>
+                Hello! I'm Jane, a passionate frontend developer with a love for clean design and responsize, user-friendly web experiences. I 
+                specialize in HTML, CSS, JavaScript, and modern frameworks like React. I enjoy complex problems into simple, beautiful, 
+                and intuitive designs.
+            </p>
+            <section class="projects">
+                <div class="project-card">
+                    <img class="image" src="pictures\pic1.jpg">
+                    <h3>Portfolio Website</h3>
+                    <p>
+                        A personal portfolio site built with HTML, 
+                        CSS, and JavaScript showcasting my work 
+                        and skills.
+                    </p>
+                </div>
+                <div class="project-card">
+                    <img class="image" src="pictures\pic2.jpg">
+                    <h3>Weather App</h3>
+                    <p>
+                        A simple weather app using 
+                        OpenWeather API to display current 
+                        weather based on user's location.
+                    </p>
+                </div>
+                <div class="project-card">
+                    <img class="image" src="pictures\pic3.jpg">
+                    <h3>Todo List</h3>
+                    <p>
+                        A task managemenet app with features 
+                        like adding, editing, and removing tasks. 
+                        Built using vanilla JavaScript
+                    </p>
+                </div>
+            </section>
+
+            <section class="contact-me" class="content">
+                <h2>Contact Me</h2>
+                <label for="name">Name</label>
+                <input id="name"type="text" placeholder="Your Name" title="Name">
+                <label for="email">Email</label>
+                <input id="email" placeholder="Your Email">
+                <label for="message">Message</label>
+                <textarea id="message" placeholder="Your message"></textarea>
+                
+                <button>Send Message</button>
+            </section>
+        </main>
+        <footer>
+            &copy; 2025 Jane Doe, All rights reserved.
+        </footer>
+    </div>
+</body>
+</html>

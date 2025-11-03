@@ -1,0 +1,11 @@
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\TextbookWorks\ToolTipDemonstration\ToolTipDemonstration\bin\Debug\ToolTipDemonstration.exe.config
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\TextbookWorks\ToolTipDemonstration\ToolTipDemonstration\bin\Debug\ToolTipDemonstration.exe
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\TextbookWorks\ToolTipDemonstration\ToolTipDemonstration\bin\Debug\ToolTipDemonstration.pdb
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\TextbookWorks\ToolTipDemonstration\ToolTipDemonstration\obj\Debug\ToolTipDemonstration.csproj.AssemblyReference.cache
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\TextbookWorks\ToolTipDemonstration\ToolTipDemonstration\obj\Debug\ToolTipDemonstration.ToolTipDemonstration.resources
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\TextbookWorks\ToolTipDemonstration\ToolTipDemonstration\obj\Debug\ToolTipDemonstration.Properties.Resources.resources
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\TextbookWorks\ToolTipDemonstration\ToolTipDemonstration\obj\Debug\ToolTipDemonstration.ToolTipDemonstrationForm.resources
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\TextbookWorks\ToolTipDemonstration\ToolTipDemonstration\obj\Debug\ToolTipDemonstration.csproj.GenerateResource.cache
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\TextbookWorks\ToolTipDemonstration\ToolTipDemonstration\obj\Debug\ToolTipDemonstration.csproj.CoreCompileInputs.cache
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\TextbookWorks\ToolTipDemonstration\ToolTipDemonstration\obj\Debug\ToolTipDemonstration.exe
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\TextbookWorks\ToolTipDemonstration\ToolTipDemonstration\obj\Debug\ToolTipDemonstration.pdb

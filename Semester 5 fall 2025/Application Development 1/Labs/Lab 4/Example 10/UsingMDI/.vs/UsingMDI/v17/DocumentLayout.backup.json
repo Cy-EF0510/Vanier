@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AC8AAA-A772-4EDA-822F-EC778C0E3071}|UsingMDI.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 4\\example 10\\usingmdi\\usingmdiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AC8AAA-A772-4EDA-822F-EC778C0E3071}|UsingMDI.csproj|solutionrelative:usingmdiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AC8AAA-A772-4EDA-822F-EC778C0E3071}|UsingMDI.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3AC8AAA-A772-4EDA-822F-EC778C0E3071}|UsingMDI.csproj|solutionrelative:childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AC8AAA-A772-4EDA-822F-EC778C0E3071}|UsingMDI.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AC8AAA-A772-4EDA-822F-EC778C0E3071}|UsingMDI.csproj|solutionrelative:childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AC8AAA-A772-4EDA-822F-EC778C0E3071}|UsingMDI.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\childform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AC8AAA-A772-4EDA-822F-EC778C0E3071}|UsingMDI.csproj|solutionrelative:childform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AC8AAA-A772-4EDA-822F-EC778C0E3071}|UsingMDI.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AC8AAA-A772-4EDA-822F-EC778C0E3071}|UsingMDI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AC8AAA-A772-4EDA-822F-EC778C0E3071}|UsingMDI.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\usingmdiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3AC8AAA-A772-4EDA-822F-EC778C0E3071}|UsingMDI.csproj|solutionrelative:usingmdiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AC8AAA-A772-4EDA-822F-EC778C0E3071}|UsingMDI.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\usingmdiform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AC8AAA-A772-4EDA-822F-EC778C0E3071}|UsingMDI.csproj|solutionrelative:usingmdiform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsingMDIForm.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\UsingMDIForm.cs",
+              "RelativeDocumentMoniker": "UsingMDIForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\UsingMDIForm.cs",
+              "RelativeToolTip": "UsingMDIForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T23:45:32.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsingMDIForm.Designer.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\UsingMDIForm.Designer.cs",
+              "RelativeDocumentMoniker": "UsingMDIForm.Designer.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\UsingMDIForm.Designer.cs",
+              "RelativeToolTip": "UsingMDIForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwK8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T23:45:26.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsingMDIForm.cs [Design]",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\UsingMDIForm.cs",
+              "RelativeDocumentMoniker": "UsingMDIForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\UsingMDIForm.cs [Design]",
+              "RelativeToolTip": "UsingMDIForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T23:45:23.987Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T23:45:20.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChildForm.Designer.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\ChildForm.Designer.cs",
+              "RelativeDocumentMoniker": "ChildForm.Designer.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\ChildForm.Designer.cs",
+              "RelativeToolTip": "ChildForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T23:45:16.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChildForm.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\ChildForm.cs",
+              "RelativeDocumentMoniker": "ChildForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\ChildForm.cs",
+              "RelativeToolTip": "ChildForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T23:45:05.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChildForm.cs [Design]",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\ChildForm.cs",
+              "RelativeDocumentMoniker": "ChildForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 10\\UsingMDI\\ChildForm.cs [Design]",
+              "RelativeToolTip": "ChildForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T23:45:00.002Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

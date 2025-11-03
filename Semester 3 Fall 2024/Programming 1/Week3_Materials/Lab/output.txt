@@ -1,0 +1,6 @@
+Enter the initial investment: 17000
+Enter the annual interest rate (as a decimal): 0.027
+You have entered $17000.00 as your initial investment
+You have entered $0.03 as your annual rate
+The amount of interest is $459.00
+The value after one year is $17459.00

@@ -1,0 +1,4 @@
+[Fri Oct 31 10:02:49 EDT 2025] [UserService] User with userid:student1 logged in.
+[Fri Oct 31 10:02:49 EDT 2025] [ProductService] Product 'B-102' viewed.
+[Fri Oct 31 10:32:45 EDT 2025] [UserService] User with userid:student1 logged in.
+[Fri Oct 31 10:32:45 EDT 2025] [ProductService] Product 'B-102' viewed.

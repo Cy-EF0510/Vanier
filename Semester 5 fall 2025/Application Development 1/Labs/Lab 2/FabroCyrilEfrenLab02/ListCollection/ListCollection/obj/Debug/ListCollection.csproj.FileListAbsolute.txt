@@ -1,0 +1,8 @@
+D:\App devs\Assignments\Assignment 2\ListCollection\ListCollection\bin\Debug\ListCollection.exe.config
+D:\App devs\Assignments\Assignment 2\ListCollection\ListCollection\bin\Debug\ListCollection.exe
+D:\App devs\Assignments\Assignment 2\ListCollection\ListCollection\bin\Debug\ListCollection.pdb
+D:\App devs\Assignments\Assignment 2\ListCollection\ListCollection\obj\Debug\ListCollection.csproj.AssemblyReference.cache
+D:\App devs\Assignments\Assignment 2\ListCollection\ListCollection\obj\Debug\ListCollection.csproj.CoreCompileInputs.cache
+D:\App devs\Assignments\Assignment 2\ListCollection\ListCollection\obj\Debug\ListCollection.exe
+D:\App devs\Assignments\Assignment 2\ListCollection\ListCollection\obj\Debug\ListCollection.pdb
+D:\App devs\Assignments\Assignment 2\ListCollection\ListCollection\obj\Debug\ListCollection.exe.config

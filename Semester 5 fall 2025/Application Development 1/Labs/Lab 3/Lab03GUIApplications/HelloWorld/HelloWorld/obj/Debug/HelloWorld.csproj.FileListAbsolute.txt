@@ -1,0 +1,11 @@
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe.config

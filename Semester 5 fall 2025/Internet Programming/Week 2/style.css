@@ -1,0 +1,24 @@
+p{
+    color:blue;
+}
+
+button{
+    color:rebeccapurple
+}
+
+hgroup{
+    font-style: italic
+}
+body{
+    background-color: aqua;
+
+}
+h1, h2, h3, h4{
+    color: darkgreen;
+}
+
+label{
+    color:tomato;
+    font-style: oblique;
+}
+

@@ -1,0 +1,15 @@
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreditInquiry\CreditInquiry\bin\Debug\CreditInquiry.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreditInquiry\CreditInquiry\bin\Debug\CreditInquiry.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreditInquiry\CreditInquiry\bin\Debug\CreditInquiry.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreditInquiry\CreditInquiry\bin\Debug\BankLibrary.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreditInquiry\CreditInquiry\bin\Debug\BankLibrary.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreditInquiry\CreditInquiry\bin\Debug\BankLibrary.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreditInquiry\CreditInquiry\obj\Debug\CreditInquiry.csproj.AssemblyReference.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreditInquiry\CreditInquiry\obj\Debug\CreditInquiry.CreditInquiryForm.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreditInquiry\CreditInquiry\obj\Debug\CreditInquiry.Properties.Resources.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreditInquiry\CreditInquiry\obj\Debug\CreditInquiry.csproj.GenerateResource.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreditInquiry\CreditInquiry\obj\Debug\CreditInquiry.csproj.CoreCompileInputs.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreditInquiry\CreditInquiry\obj\Debug\CreditIn.F2433ECB.Up2Date
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreditInquiry\CreditInquiry\obj\Debug\CreditInquiry.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreditInquiry\CreditInquiry\obj\Debug\CreditInquiry.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreditInquiry\CreditInquiry\obj\Debug\CreditInquiry.exe.config

@@ -1,0 +1,10 @@
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 11\VisualInheritanceBase\VisualInheritanceBase\bin\Debug\VisualInheritanceBase.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 11\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.csproj.AssemblyReference.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 11\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.Properties.Resources.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 11\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.VisualInheritanceBaseForm.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 11\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.csproj.GenerateResource.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 11\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.csproj.CoreCompileInputs.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 11\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 11\VisualInheritanceBase\VisualInheritanceBase\bin\Debug\VisualInheritanceBase.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 11\VisualInheritanceBase\VisualInheritanceBase\bin\Debug\VisualInheritanceBase.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 11\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.exe

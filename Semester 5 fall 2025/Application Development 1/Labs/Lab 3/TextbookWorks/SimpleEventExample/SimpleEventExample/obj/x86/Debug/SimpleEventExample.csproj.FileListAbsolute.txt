@@ -1,0 +1,10 @@
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\SimpleEventExample\SimpleEventExample\bin\Debug\SimpleEventExample.exe.config
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\SimpleEventExample\SimpleEventExample\bin\Debug\SimpleEventExample.exe
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\SimpleEventExample\SimpleEventExample\bin\Debug\SimpleEventExample.pdb
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\SimpleEventExample\SimpleEventExample\obj\x86\Debug\SimpleEventExample.csproj.AssemblyReference.cache
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\SimpleEventExample\SimpleEventExample\obj\x86\Debug\SimpleEventExample.Properties.Resources.resources
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\SimpleEventExample\SimpleEventExample\obj\x86\Debug\SimpleEventExample.SimpleEventExampleForm.resources
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\SimpleEventExample\SimpleEventExample\obj\x86\Debug\SimpleEventExample.csproj.GenerateResource.cache
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\SimpleEventExample\SimpleEventExample\obj\x86\Debug\SimpleEventExample.csproj.CoreCompileInputs.cache
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\SimpleEventExample\SimpleEventExample\obj\x86\Debug\SimpleEventExample.exe
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\SimpleEventExample\SimpleEventExample\obj\x86\Debug\SimpleEventExample.pdb

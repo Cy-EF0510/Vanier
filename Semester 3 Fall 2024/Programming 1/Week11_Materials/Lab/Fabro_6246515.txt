@@ -1,0 +1,168 @@
+1. Card Class
+
+public class Card {
+    protected int suit; //spades, hearts, diamonds, clubs or joker represented numerically
+    protected int value; //the numerical values on each card, 1 to 13, except joker which i sonly 2 in number
+
+    public Card(int value, int suit){
+        this.suit = suit;
+        this.value = value;
+    }
+
+    //Getters
+    public String getSuitAsString(){ //Return string representaiton of a card's suit based on the suit numerical value
+        switch(suit) {
+            case 1:
+                return "Spades";
+            case 2:
+                return "Hearts";
+            case 3:
+                return "Diamonds";
+            case 4: 
+                return "Clubs";
+            default:
+                return "Wrong Input";
+        }        
+    }
+
+    public String getValueAsString(){ //Return string represenation of a card's alue based on the numerical
+        switch(value){
+            case 1:
+                return "Ace";
+            case 2:
+                return "2";
+            case 3:
+                return "3";
+            case 4:
+                return "4";
+            case 5:
+                return "5";
+            case 6:
+                return "6";
+            case 7:
+                return "7";
+            case 8:
+                return "8";
+            case 9:
+                return "9";
+            case 10:
+                return "10";
+            case 11:
+                return "Jack";
+            case 12:
+                return "Queen";
+            case 13:
+                return "King";
+            default:
+                return "Wrong Input";
+        }
+    }
+
+    public String toString(){ //returns representation of a card
+            return getValueAsString() + " of " +  getSuitAsString();
+    }
+}
+
+2. Joker Class
+
+public class Joker extends Card{
+    public Joker(int value, int suit){
+        super(value, suit);
+    }    
+
+    public String getSuitAsString(){
+        if(suit == 5){
+            return "Joker";
+        }
+        else{
+            return "Wrong Input";
+        }
+    }
+
+    public String getValueAsString(){
+        if(getSuitAsString() == "Joker"){
+            return "1";
+        }
+        else{
+            return "Error";
+        }
+    }
+}
+
+3. Deck Class
+
+public class Deck {
+    private Card[] deck = new Card[54]; //Array of 54 cards: 52 regular cards and 2 jokers
+
+    public Deck(){ //Takes no parameters and creates 54 cards
+        int cardCounter = 0;
+        for(int i = 1; i <= 4; i++){
+            for(int j = 1; j <= 13; j++){
+                deck[cardCounter] = new Card(j, i);
+                cardCounter++;
+            }
+        }
+        deck[52] = new Joker(1, 5);
+        deck[53] = new Joker(2, 5);
+    }
+
+    public void shuffle(){ //Shuffles cards
+        for (int i = deck.length - 1; i > 0; i--){
+            int rand = (int) (Math.random() * (i + 1));
+            Card temp = deck[i];
+            deck[i] = deck [rand];
+            deck[rand] = temp;
+        }
+    }
+
+    public Card dealCard(int index){ //return card from deck at index sent into the method
+        return deck[index];
+    }
+}
+
+4. Game Class
+
+import java.util.Scanner;
+
+public class Game {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        String cardGuess;
+        int cardPick;
+        String cardDealt;
+
+        Deck deck = new Deck();
+        //System.out.println(deck.dealCard(53)); //this lines checks if the joker cards are working.
+        
+        deck.shuffle();
+
+        System.out.println("Guess a card");
+        cardGuess = input.nextLine();
+
+        while (cardGuess.equalsIgnoreCase("Joker")) { //While loop to force user to not enter joker as the card guessed
+            if (cardGuess.equalsIgnoreCase("Joker")) {
+                System.out.println("Cannot guess Joker.");
+            }
+            System.out.println("Guess a card");
+            cardGuess = input.nextLine();
+        }
+
+        System.out.println("You have guessed " + cardGuess);
+
+        for (int i = 6; i > 0; i--) { // Player has 6 tries in total
+            deck.shuffle();
+            System.out.println("Pick a card from the deck: (input a number between 0 - 53)");
+            cardPick = input.nextInt();
+            System.out.println("You have picked " + deck.dealCard(cardPick));
+            cardDealt = deck.dealCard(cardPick).toString(); // Converts object into string so that we can later compare it to the guessed card
+            input.nextLine();
+            System.out.println("You have " + (i - 1) + " tries"); // Shows how many tries player has left
+            System.out.println();
+            if (cardGuess.equalsIgnoreCase(cardDealt) || cardDealt.equalsIgnoreCase("Joker")) { //If player guesses right or picks a joker, they win
+                System.out.println("You won the game!");
+                break;
+            }
+        }
+
+    }
+}

@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\BankLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B72A78C-9299-44E8-9D1C-9B196C2F95AE}|BankLibrary\\BankLibrary.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 5\\banklibrary\\banklibrary\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B72A78C-9299-44E8-9D1C-9B196C2F95AE}|BankLibrary\\BankLibrary.csproj|solutionrelative:banklibrary\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B72A78C-9299-44E8-9D1C-9B196C2F95AE}|BankLibrary\\BankLibrary.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\BankLibrary\\banklibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B72A78C-9299-44E8-9D1C-9B196C2F95AE}|BankLibrary\\BankLibrary.csproj|solutionrelative:banklibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B72A78C-9299-44E8-9D1C-9B196C2F95AE}|BankLibrary\\BankLibrary.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\BankLibrary\\banklibrary\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B72A78C-9299-44E8-9D1C-9B196C2F95AE}|BankLibrary\\BankLibrary.csproj|solutionrelative:banklibrary\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B72A78C-9299-44E8-9D1C-9B196C2F95AE}|BankLibrary\\BankLibrary.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\BankLibrary\\banklibrary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B72A78C-9299-44E8-9D1C-9B196C2F95AE}|BankLibrary\\BankLibrary.csproj|solutionrelative:banklibrary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B72A78C-9299-44E8-9D1C-9B196C2F95AE}|BankLibrary\\BankLibrary.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\BankLibrary\\banklibrary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B72A78C-9299-44E8-9D1C-9B196C2F95AE}|BankLibrary\\BankLibrary.csproj|solutionrelative:banklibrary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\BankLibrary\\BankLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "BankLibrary\\Program.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\BankLibrary\\BankLibrary\\Program.cs",
+              "RelativeToolTip": "BankLibrary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:20:17.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\BankLibrary\\BankLibrary\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BankLibrary\\Form1.Designer.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\BankLibrary\\BankLibrary\\Form1.Designer.cs",
+              "RelativeToolTip": "BankLibrary\\Form1.Designer.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwF4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:11:59.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Record.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\BankLibrary\\BankLibrary\\Record.cs",
+              "RelativeDocumentMoniker": "BankLibrary\\Record.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\BankLibrary\\BankLibrary\\Record.cs",
+              "RelativeToolTip": "BankLibrary\\Record.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:45:51.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\BankLibrary\\BankLibrary\\Form1.cs",
+              "RelativeDocumentMoniker": "BankLibrary\\Form1.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\BankLibrary\\BankLibrary\\Form1.cs",
+              "RelativeToolTip": "BankLibrary\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:28:13.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\BankLibrary\\BankLibrary\\Form1.cs",
+              "RelativeDocumentMoniker": "BankLibrary\\Form1.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 5\\BankLibrary\\BankLibrary\\Form1.cs [Design]",
+              "RelativeToolTip": "BankLibrary\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:13:49.79Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\ToolTipDemonstration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A78ABB9A-0B4E-43DD-B263-7D93D4DA100B}|ToolTipDemonstration\\ToolTipDemonstration.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 3\\textbookworks\\tooltipdemonstration\\tooltipdemonstration\\tooltipdemonstrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78ABB9A-0B4E-43DD-B263-7D93D4DA100B}|ToolTipDemonstration\\ToolTipDemonstration.csproj|solutionrelative:tooltipdemonstration\\tooltipdemonstrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78ABB9A-0B4E-43DD-B263-7D93D4DA100B}|ToolTipDemonstration\\ToolTipDemonstration.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 3\\textbookworks\\tooltipdemonstration\\tooltipdemonstration\\tooltipdemonstrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A78ABB9A-0B4E-43DD-B263-7D93D4DA100B}|ToolTipDemonstration\\ToolTipDemonstration.csproj|solutionrelative:tooltipdemonstration\\tooltipdemonstrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78ABB9A-0B4E-43DD-B263-7D93D4DA100B}|ToolTipDemonstration\\ToolTipDemonstration.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 3\\textbookworks\\tooltipdemonstration\\tooltipdemonstration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A78ABB9A-0B4E-43DD-B263-7D93D4DA100B}|ToolTipDemonstration\\ToolTipDemonstration.csproj|solutionrelative:tooltipdemonstration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78ABB9A-0B4E-43DD-B263-7D93D4DA100B}|ToolTipDemonstration\\ToolTipDemonstration.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\ToolTipDemonstration\\tooltipdemonstration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78ABB9A-0B4E-43DD-B263-7D93D4DA100B}|ToolTipDemonstration\\ToolTipDemonstration.csproj|solutionrelative:tooltipdemonstration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToolTipDemonstrationForm.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\ToolTipDemonstration\\ToolTipDemonstration\\ToolTipDemonstrationForm.cs",
+              "RelativeDocumentMoniker": "ToolTipDemonstration\\ToolTipDemonstrationForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\ToolTipDemonstration\\ToolTipDemonstration\\ToolTipDemonstrationForm.cs",
+              "RelativeToolTip": "ToolTipDemonstration\\ToolTipDemonstrationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:47:14.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToolTipDemonstrationForm.cs [Design]",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\ToolTipDemonstration\\ToolTipDemonstration\\ToolTipDemonstrationForm.cs",
+              "RelativeDocumentMoniker": "ToolTipDemonstration\\ToolTipDemonstrationForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\ToolTipDemonstration\\ToolTipDemonstration\\ToolTipDemonstrationForm.cs [Design]",
+              "RelativeToolTip": "ToolTipDemonstration\\ToolTipDemonstrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:46:57.509Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\ToolTipDemonstration\\ToolTipDemonstration\\Program.cs",
+              "RelativeDocumentMoniker": "ToolTipDemonstration\\Program.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\ToolTipDemonstration\\ToolTipDemonstration\\Program.cs",
+              "RelativeToolTip": "ToolTipDemonstration\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:30:49.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\ToolTipDemonstration\\ToolTipDemonstration\\Form1.cs",
+              "RelativeDocumentMoniker": "ToolTipDemonstration\\Form1.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\ToolTipDemonstration\\ToolTipDemonstration\\Form1.cs [Design]",
+              "RelativeToolTip": "ToolTipDemonstration\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:30:18.803Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 5\\CheckedListBoxForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC536161-4126-4052-BB47-62F061E61E47}|CheckedListBoxForm\\CheckedListBoxForm.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 4\\example 5\\checkedlistboxform\\checkedlistboxform\\checkedlistboxtestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC536161-4126-4052-BB47-62F061E61E47}|CheckedListBoxForm\\CheckedListBoxForm.csproj|solutionrelative:checkedlistboxform\\checkedlistboxtestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC536161-4126-4052-BB47-62F061E61E47}|CheckedListBoxForm\\CheckedListBoxForm.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 5\\CheckedListBoxForm\\checkedlistboxform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC536161-4126-4052-BB47-62F061E61E47}|CheckedListBoxForm\\CheckedListBoxForm.csproj|solutionrelative:checkedlistboxform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC536161-4126-4052-BB47-62F061E61E47}|CheckedListBoxForm\\CheckedListBoxForm.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 5\\CheckedListBoxForm\\checkedlistboxform\\checkedlistboxtestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC536161-4126-4052-BB47-62F061E61E47}|CheckedListBoxForm\\CheckedListBoxForm.csproj|solutionrelative:checkedlistboxform\\checkedlistboxtestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckedListBoxTestForm.cs [Design]",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 5\\CheckedListBoxForm\\CheckedListBoxForm\\CheckedListBoxTestForm.cs",
+              "RelativeDocumentMoniker": "CheckedListBoxForm\\CheckedListBoxTestForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 5\\CheckedListBoxForm\\CheckedListBoxForm\\CheckedListBoxTestForm.cs [Design]",
+              "RelativeToolTip": "CheckedListBoxForm\\CheckedListBoxTestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:13:30.95Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckedListBoxTestForm.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 5\\CheckedListBoxForm\\CheckedListBoxForm\\CheckedListBoxTestForm.cs",
+              "RelativeDocumentMoniker": "CheckedListBoxForm\\CheckedListBoxTestForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 5\\CheckedListBoxForm\\CheckedListBoxForm\\CheckedListBoxTestForm.cs",
+              "RelativeToolTip": "CheckedListBoxForm\\CheckedListBoxTestForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:06:28.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 5\\CheckedListBoxForm\\CheckedListBoxForm\\Program.cs",
+              "RelativeDocumentMoniker": "CheckedListBoxForm\\Program.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 5\\CheckedListBoxForm\\CheckedListBoxForm\\Program.cs",
+              "RelativeToolTip": "CheckedListBoxForm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:06:12.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

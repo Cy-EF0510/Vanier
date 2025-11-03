@@ -1,0 +1,13 @@
+Dates lab
+
+Create a function called 'fillDates' that completes the various '<select>' elements with the years, months and days
+
+year must be 4-digit format, from 1970 to today (use Date object to figure out today)
+month must be full text month year, from 'January' to 'December' (use Date object to figure out month names)
+days must be between 1 and 31
+
+create a function called 'calculateAgeInDays' that calculates the age (in days) of someone with the birthday selected from the dropdowns (described above)
+
+
+
+create a function called 'calculateChristmas' that calculates the number of days between the current day and Christmas (keep an mind that dec 26 2025 has 364 days until Christmas)

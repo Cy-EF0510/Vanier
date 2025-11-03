@@ -1,0 +1,16 @@
+C:\Users\efren\Documents\Vanier\Semester 5 Fall 2025\Application Development 1\Labs\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe.config
+C:\Users\efren\Documents\Vanier\Semester 5 Fall 2025\Application Development 1\Labs\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe
+C:\Users\efren\Documents\Vanier\Semester 5 Fall 2025\Application Development 1\Labs\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+C:\Users\efren\Documents\Vanier\Semester 5 Fall 2025\Application Development 1\Labs\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.AssemblyReference.cache
+C:\Users\efren\Documents\Vanier\Semester 5 Fall 2025\Application Development 1\Labs\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+C:\Users\efren\Documents\Vanier\Semester 5 Fall 2025\Application Development 1\Labs\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe
+C:\Users\efren\Documents\Vanier\Semester 5 Fall 2025\Application Development 1\Labs\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb
+C:\Users\efren\Documents\Vanier\Semester 5 Fall 2025\Application Development 1\Labs\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Lab1\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Lab1\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Lab1\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Lab1\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.AssemblyReference.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Lab1\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Lab1\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Lab1\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Lab1\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb

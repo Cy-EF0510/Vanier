@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\GroupBoxPanelExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CDD19B-2AF9-497A-9B93-76A399B8D2D6}|GroupBoxPanelExample\\GroupBoxPanelExample.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 3\\textbookworks\\groupboxpanelexample\\groupboxpanelexample\\groupboxpanelexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9CDD19B-2AF9-497A-9B93-76A399B8D2D6}|GroupBoxPanelExample\\GroupBoxPanelExample.csproj|solutionrelative:groupboxpanelexample\\groupboxpanelexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CDD19B-2AF9-497A-9B93-76A399B8D2D6}|GroupBoxPanelExample\\GroupBoxPanelExample.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 3\\textbookworks\\groupboxpanelexample\\groupboxpanelexample\\groupboxpanelexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CDD19B-2AF9-497A-9B93-76A399B8D2D6}|GroupBoxPanelExample\\GroupBoxPanelExample.csproj|solutionrelative:groupboxpanelexample\\groupboxpanelexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupBoxPanelExampleForm.cs [Design]",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\GroupBoxPanelExample\\GroupBoxPanelExample\\GroupBoxPanelExampleForm.cs",
+              "RelativeDocumentMoniker": "GroupBoxPanelExample\\GroupBoxPanelExampleForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\GroupBoxPanelExample\\GroupBoxPanelExample\\GroupBoxPanelExampleForm.cs [Design]",
+              "RelativeToolTip": "GroupBoxPanelExample\\GroupBoxPanelExampleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:21:59.985Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupBoxPanelExampleForm.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\GroupBoxPanelExample\\GroupBoxPanelExample\\GroupBoxPanelExampleForm.cs",
+              "RelativeDocumentMoniker": "GroupBoxPanelExample\\GroupBoxPanelExampleForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\TextbookWorks\\GroupBoxPanelExample\\GroupBoxPanelExample\\GroupBoxPanelExampleForm.cs",
+              "RelativeToolTip": "GroupBoxPanelExample\\GroupBoxPanelExampleForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvygAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:05:50.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

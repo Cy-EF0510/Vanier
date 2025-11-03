@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\Lab03GUIApplications\\Code Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2574B2EA-E8BC-4B2C-A540-1E272693BCD0}|Code Demo\\Code Demo.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 3\\lab03guiapplications\\code demo\\code demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2574B2EA-E8BC-4B2C-A540-1E272693BCD0}|Code Demo\\Code Demo.csproj|solutionrelative:code demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2574B2EA-E8BC-4B2C-A540-1E272693BCD0}|Code Demo\\Code Demo.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\Lab03GUIApplications\\Code Demo\\code demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2574B2EA-E8BC-4B2C-A540-1E272693BCD0}|Code Demo\\Code Demo.csproj|solutionrelative:code demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\Lab03GUIApplications\\Code Demo\\Code Demo\\Form1.cs",
+              "RelativeDocumentMoniker": "Code Demo\\Form1.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\Lab03GUIApplications\\Code Demo\\Code Demo\\Form1.cs",
+              "RelativeToolTip": "Code Demo\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:56:25.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\Lab03GUIApplications\\Code Demo\\Code Demo\\Form1.cs",
+              "RelativeDocumentMoniker": "Code Demo\\Form1.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 3\\Lab03GUIApplications\\Code Demo\\Code Demo\\Form1.cs [Design]",
+              "RelativeToolTip": "Code Demo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:55:00.168Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

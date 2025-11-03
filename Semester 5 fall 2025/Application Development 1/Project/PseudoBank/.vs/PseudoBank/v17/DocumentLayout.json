@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\6243515\\source\\repos\\PseudoBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66D60526-2A34-42AE-8213-FECB7E1B0DD7}|PseudoBank\\PseudoBank.csproj|c:\\users\\6243515\\source\\repos\\pseudobank\\pseudobank\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66D60526-2A34-42AE-8213-FECB7E1B0DD7}|PseudoBank\\PseudoBank.csproj|solutionrelative:pseudobank\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\6243515\\source\\repos\\PseudoBank\\PseudoBank\\Form1.cs",
+              "RelativeDocumentMoniker": "PseudoBank\\Form1.cs",
+              "ToolTip": "C:\\Users\\6243515\\source\\repos\\PseudoBank\\PseudoBank\\Form1.cs [Design]",
+              "RelativeToolTip": "PseudoBank\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:33:58.944Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

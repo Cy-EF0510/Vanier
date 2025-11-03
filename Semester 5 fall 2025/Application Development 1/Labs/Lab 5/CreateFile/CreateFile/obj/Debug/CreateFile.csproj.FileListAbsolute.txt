@@ -1,0 +1,15 @@
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreateFile\CreateFile\bin\Debug\CreateFile.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreateFile\CreateFile\bin\Debug\CreateFile.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreateFile\CreateFile\bin\Debug\CreateFile.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreateFile\CreateFile\bin\Debug\BankLibrary.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreateFile\CreateFile\bin\Debug\BankLibrary.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreateFile\CreateFile\bin\Debug\BankLibrary.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreateFile\CreateFile\obj\Debug\CreateFile.csproj.AssemblyReference.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreateFile\CreateFile\obj\Debug\CreateFile.CreateFileForm.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreateFile\CreateFile\obj\Debug\CreateFile.Properties.Resources.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreateFile\CreateFile\obj\Debug\CreateFile.csproj.GenerateResource.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreateFile\CreateFile\obj\Debug\CreateFile.csproj.CoreCompileInputs.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreateFile\CreateFile\obj\Debug\CreateFile.csproj.Up2Date
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreateFile\CreateFile\obj\Debug\CreateFile.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreateFile\CreateFile\obj\Debug\CreateFile.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\CreateFile\CreateFile\obj\Debug\CreateFile.exe.config

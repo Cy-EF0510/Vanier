@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE784CF-669E-4A84-848F-23872755A83D}|ListViewTest\\ListViewTest.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 4\\example 8\\listviewtest\\listviewtestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAE784CF-669E-4A84-848F-23872755A83D}|ListViewTest\\ListViewTest.csproj|solutionrelative:listviewtest\\listviewtestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE784CF-669E-4A84-848F-23872755A83D}|ListViewTest.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 8\\listviewtest\\listviewtestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAE784CF-669E-4A84-848F-23872755A83D}|ListViewTest.csproj|solutionrelative:listviewtest\\listviewtestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE784CF-669E-4A84-848F-23872755A83D}|ListViewTest\\ListViewTest.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 4\\example 8\\listviewtest\\listviewtestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE784CF-669E-4A84-848F-23872755A83D}|ListViewTest\\ListViewTest.csproj|solutionrelative:listviewtest\\listviewtestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE784CF-669E-4A84-848F-23872755A83D}|ListViewTest.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 8\\listviewtest\\listviewtestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE784CF-669E-4A84-848F-23872755A83D}|ListViewTest.csproj|solutionrelative:listviewtest\\listviewtestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE784CF-669E-4A84-848F-23872755A83D}|ListViewTest\\ListViewTest.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 4\\example 8\\listviewtest\\listviewtestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE784CF-669E-4A84-848F-23872755A83D}|ListViewTest\\ListViewTest.csproj|solutionrelative:listviewtest\\listviewtestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE784CF-669E-4A84-848F-23872755A83D}|ListViewTest.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 8\\listviewtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE784CF-669E-4A84-848F-23872755A83D}|ListViewTest.csproj|solutionrelative:listviewtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListViewTestForm.cs [Design]",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 8\\ListViewTest\\ListViewTestForm.cs",
+              "RelativeDocumentMoniker": "ListViewTest\\ListViewTestForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 8\\ListViewTest\\ListViewTestForm.cs [Design]",
+              "RelativeToolTip": "ListViewTest\\ListViewTestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:00:36.313Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListViewTestForm.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 8\\ListViewTest\\ListViewTestForm.cs",
+              "RelativeDocumentMoniker": "ListViewTest\\ListViewTestForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 8\\ListViewTest\\ListViewTestForm.cs",
+              "RelativeToolTip": "ListViewTest\\ListViewTestForm.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAIwHsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:00:35.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListViewTestForm.Designer.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 8\\ListViewTest\\ListViewTestForm.Designer.cs",
+              "RelativeDocumentMoniker": "ListViewTest\\ListViewTestForm.Designer.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 8\\ListViewTest\\ListViewTestForm.Designer.cs",
+              "RelativeToolTip": "ListViewTest\\ListViewTestForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T23:26:39.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListViewTestForm.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 8\\ListViewTest\\ListViewTestForm.cs",
+              "RelativeDocumentMoniker": "ListViewTest\\ListViewTestForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 8\\ListViewTest\\ListViewTestForm.cs",
+              "RelativeToolTip": "ListViewTest\\ListViewTestForm.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAIwHsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T23:26:23.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListViewTestForm.cs [Design]",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 8\\ListViewTest\\ListViewTestForm.cs",
+              "RelativeDocumentMoniker": "ListViewTest\\ListViewTestForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 8\\ListViewTest\\ListViewTestForm.cs [Design]",
+              "RelativeToolTip": "ListViewTest\\ListViewTestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T23:26:19.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 8\\ListViewTest\\Program.cs",
+              "RelativeDocumentMoniker": "ListViewTest\\Program.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 8\\ListViewTest\\Program.cs",
+              "RelativeToolTip": "ListViewTest\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T23:26:13.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

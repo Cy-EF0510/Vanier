@@ -1,0 +1,15 @@
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\ReadSequentialAccessFile\ReadSequentialAccessFile\obj\Debug\ReadSequentialAccessFile.csproj.AssemblyReference.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\ReadSequentialAccessFile\ReadSequentialAccessFile\obj\Debug\ReadSequentialAccessFile.ReadSequentialAccessFileForm.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\ReadSequentialAccessFile\ReadSequentialAccessFile\obj\Debug\ReadSequentialAccessFile.Properties.Resources.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\ReadSequentialAccessFile\ReadSequentialAccessFile\obj\Debug\ReadSequentialAccessFile.csproj.GenerateResource.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\ReadSequentialAccessFile\ReadSequentialAccessFile\obj\Debug\ReadSequentialAccessFile.csproj.CoreCompileInputs.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\ReadSequentialAccessFile\ReadSequentialAccessFile\bin\Debug\ReadSequentialAccessFile.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\ReadSequentialAccessFile\ReadSequentialAccessFile\bin\Debug\ReadSequentialAccessFile.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\ReadSequentialAccessFile\ReadSequentialAccessFile\bin\Debug\ReadSequentialAccessFile.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\ReadSequentialAccessFile\ReadSequentialAccessFile\bin\Debug\BankLibrary.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\ReadSequentialAccessFile\ReadSequentialAccessFile\bin\Debug\BankLibrary.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\ReadSequentialAccessFile\ReadSequentialAccessFile\bin\Debug\BankLibrary.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\ReadSequentialAccessFile\ReadSequentialAccessFile\obj\Debug\ReadSequ.A38A5206.Up2Date
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\ReadSequentialAccessFile\ReadSequentialAccessFile\obj\Debug\ReadSequentialAccessFile.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\ReadSequentialAccessFile\ReadSequentialAccessFile\obj\Debug\ReadSequentialAccessFile.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\ReadSequentialAccessFile\ReadSequentialAccessFile\obj\Debug\ReadSequentialAccessFile.exe.config

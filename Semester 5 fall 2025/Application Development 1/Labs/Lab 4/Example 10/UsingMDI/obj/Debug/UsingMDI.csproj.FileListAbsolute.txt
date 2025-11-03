@@ -1,0 +1,11 @@
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 10\UsingMDI\bin\Debug\UsingMDI.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 10\UsingMDI\bin\Debug\UsingMDI.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 10\UsingMDI\bin\Debug\UsingMDI.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 10\UsingMDI\obj\Debug\UsingMDI.csproj.AssemblyReference.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 10\UsingMDI\obj\Debug\UsingMDI.ChildForm.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 10\UsingMDI\obj\Debug\UsingMDI.UsingMDIForm.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 10\UsingMDI\obj\Debug\UsingMDI.Properties.Resources.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 10\UsingMDI\obj\Debug\UsingMDI.csproj.GenerateResource.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 10\UsingMDI\obj\Debug\UsingMDI.csproj.CoreCompileInputs.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 10\UsingMDI\obj\Debug\UsingMDI.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 10\UsingMDI\obj\Debug\UsingMDI.pdb

@@ -1,0 +1,8 @@
+D:\App devs\Assignments\Assignment 2\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.exe.config
+D:\App devs\Assignments\Assignment 2\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.exe
+D:\App devs\Assignments\Assignment 2\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.pdb
+D:\App devs\Assignments\Assignment 2\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.csproj.AssemblyReference.cache
+D:\App devs\Assignments\Assignment 2\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.csproj.CoreCompileInputs.cache
+D:\App devs\Assignments\Assignment 2\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.exe
+D:\App devs\Assignments\Assignment 2\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.pdb
+D:\App devs\Assignments\Assignment 2\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.exe.config

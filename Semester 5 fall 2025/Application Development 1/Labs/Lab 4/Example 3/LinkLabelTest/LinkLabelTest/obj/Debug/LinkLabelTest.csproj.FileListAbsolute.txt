@@ -1,0 +1,11 @@
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 3\LinkLabelTest\LinkLabelTest\bin\Debug\LinkLabelTest.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 3\LinkLabelTest\LinkLabelTest\bin\Debug\LinkLabelTest.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 3\LinkLabelTest\LinkLabelTest\bin\Debug\LinkLabelTest.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 3\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.csproj.AssemblyReference.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 3\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.LinkLabelTestForm.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 3\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.Properties.Resources.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 3\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.csproj.GenerateResource.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 3\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.csproj.CoreCompileInputs.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 3\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 3\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 3\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.exe.config

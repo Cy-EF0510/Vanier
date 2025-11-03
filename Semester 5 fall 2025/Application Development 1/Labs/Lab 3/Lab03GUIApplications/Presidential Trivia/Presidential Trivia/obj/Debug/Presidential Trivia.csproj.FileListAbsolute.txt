@@ -1,0 +1,22 @@
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.exe.config
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.exe
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.pdb
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.AssemblyReference.cache
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential_Trivia.Form1.resources
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential_Trivia.Properties.Resources.resources
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.GenerateResource.cache
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.CoreCompileInputs.cache
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.exe
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.pdb
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Lab03GUIApplications\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Lab03GUIApplications\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Lab03GUIApplications\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Lab03GUIApplications\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.AssemblyReference.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Lab03GUIApplications\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Lab03GUIApplications\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential_Trivia.Form1.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Lab03GUIApplications\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential_Trivia.Properties.Resources.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Lab03GUIApplications\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.GenerateResource.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Lab03GUIApplications\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.CoreCompileInputs.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Lab03GUIApplications\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 3\Lab03GUIApplications\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.pdb

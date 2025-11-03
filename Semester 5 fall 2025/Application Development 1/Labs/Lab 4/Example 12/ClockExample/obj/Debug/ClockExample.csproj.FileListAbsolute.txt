@@ -1,0 +1,12 @@
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 12\ClockExample\bin\Debug\ClockExample.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 12\ClockExample\bin\Debug\ClockExample.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 12\ClockExample\bin\Debug\ClockExample.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 12\ClockExample\obj\Debug\ClockExample.csproj.AssemblyReference.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 12\ClockExample\obj\Debug\ClockExample.Clock.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 12\ClockExample\obj\Debug\ClockExample.ClockUserControl.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 12\ClockExample\obj\Debug\ClockExample.Properties.Resources.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 12\ClockExample\obj\Debug\ClockExample.csproj.GenerateResource.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 12\ClockExample\obj\Debug\ClockExample.csproj.CoreCompileInputs.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 12\ClockExample\obj\Debug\ClockExample.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 12\ClockExample\obj\Debug\ClockExample.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 12\ClockExample\obj\Debug\ClockExample.exe.config

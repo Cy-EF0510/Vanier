@@ -1,0 +1,10 @@
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 9\UsingTabs\bin\Debug\UsingTabs.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 9\UsingTabs\bin\Debug\UsingTabs.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 9\UsingTabs\bin\Debug\UsingTabs.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 9\UsingTabs\obj\Debug\UsingTabs.csproj.AssemblyReference.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 9\UsingTabs\obj\Debug\UsingTabs.UsingTabsForm.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 9\UsingTabs\obj\Debug\UsingTabs.Properties.Resources.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 9\UsingTabs\obj\Debug\UsingTabs.csproj.GenerateResource.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 9\UsingTabs\obj\Debug\UsingTabs.csproj.CoreCompileInputs.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 9\UsingTabs\obj\Debug\UsingTabs.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 9\UsingTabs\obj\Debug\UsingTabs.pdb

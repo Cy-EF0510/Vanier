@@ -1,0 +1,14 @@
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\BooksExamples\BooksExamples\obj\Debug\BooksExamples.csproj.AssemblyReference.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\BooksExamples\BooksExamples\obj\Debug\BooksExamples.csproj.CoreCompileInputs.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\BooksExamples\BooksExamples\bin\Debug\Books.mdf
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\BooksExamples\BooksExamples\bin\Debug\Books_log.ldf
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\BooksExamples\BooksExamples\bin\Debug\BooksExamples.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\BooksExamples\BooksExamples\bin\Debug\EntityFramework.dll
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\BooksExamples\BooksExamples\bin\Debug\EntityFramework.SqlServer.dll
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\BooksExamples\BooksExamples\bin\Debug\EntityFramework.xml
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\BooksExamples\BooksExamples\bin\Debug\EntityFramework.SqlServer.xml
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\BooksExamples\BooksExamples\obj\Debug\BooksExa.62A7A167.Up2Date
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\BooksExamples\BooksExamples\obj\Debug\BooksExamples.dll
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\BooksExamples\BooksExamples\obj\Debug\BooksExamples.pdb

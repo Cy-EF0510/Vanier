@@ -1,0 +1,16 @@
+D:\App devs\Assignments\Assignment 2\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.exe.config
+D:\App devs\Assignments\Assignment 2\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.exe
+D:\App devs\Assignments\Assignment 2\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.pdb
+D:\App devs\Assignments\Assignment 2\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.csproj.AssemblyReference.cache
+D:\App devs\Assignments\Assignment 2\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.csproj.CoreCompileInputs.cache
+D:\App devs\Assignments\Assignment 2\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.exe
+D:\App devs\Assignments\Assignment 2\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.pdb
+D:\App devs\Assignments\Assignment 2\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.exe.config
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Lab 2\FabroCyrilEfrenLab02\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.exe.config
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Lab 2\FabroCyrilEfrenLab02\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.exe
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Lab 2\FabroCyrilEfrenLab02\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.pdb
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Lab 2\FabroCyrilEfrenLab02\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.csproj.AssemblyReference.cache
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Lab 2\FabroCyrilEfrenLab02\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.exe.config
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Lab 2\FabroCyrilEfrenLab02\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.csproj.CoreCompileInputs.cache
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Lab 2\FabroCyrilEfrenLab02\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.exe
+E:\Vanier\Semester 5 fall 2025\Application Development 1\Lab 2\FabroCyrilEfrenLab02\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.pdb

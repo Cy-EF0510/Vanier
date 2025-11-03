@@ -1,0 +1,23 @@
+.wrapper{
+	width: 675px;
+	background-color: lightgrey;
+	margin: 15px auto;
+	padding-top: 15px;
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+button{
+	margin: 25px;
+}
+
+.christmas, .age{
+	width: 155px;
+	height: 45px;
+	margin: 15px auto;
+	padding-top: 15px;
+	border: solid red 1px;
+	background-color: grey;
+	font-size: 28px;
+	font-weight: bolder;
+}

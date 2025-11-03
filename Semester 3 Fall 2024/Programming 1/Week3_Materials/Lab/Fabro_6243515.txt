@@ -1,0 +1,142 @@
+1.
+
+package Lab;
+
+/**
+ * This class implements a simple program that will compute
+ * the amount of interest that is earned on an investment over
+ * a period of one year. The initial amount of the investment
+ * and the interest rate are input by the user. The value of
+ * the investment at the end of the year is output. The
+ * rate must be input as a decimal, not a percentage (for
+ * example, 0.05 rather than 5).
+ */
+public class Interest2 {
+    public static void main(String[] args) {
+        double initialInvestment; // The value of the investment.
+        double annualRate; // The annual interest rate.
+        double earnedInterest; // The interest earned during the year.
+
+        System.out.print("Enter the initial investment: ");
+        initialInvestment = TextIO.getlnDouble();
+        System.out.print("Enter the annual interest rate (as a decimal): ");
+        annualRate = TextIO.getlnDouble();
+
+        earnedInterest = initialInvestment * annualRate; // Compute this year's interest.
+        initialInvestment = initialInvestment + earnedInterest; // Add it to principal.
+
+        System.out.printf("The amount of interest is $%1.2f%n", earnedInterest);
+        System.out.printf("The value after one year is $%1.2f%n", initialInvestment);
+    } // end of main()
+} // end of class Interest2
+
+2.
+
+package Lab;
+
+/**
+ * This class implements a simple program that will compute
+ * the amount of interest that is earned on an investment over
+ * a period of one year. The initial amount of the investment
+ * and the interest rate are input by the user. The value of
+ * the investment at the end of the year is output. The
+ * rate must be input as a decimal, not a percentage (for
+ * example, 0.05 rather than 5).
+ */
+public class Interest2 {
+    public static void main(String[] args) {
+        double initialInvestment; // The value of the investment.
+        double annualRate; // The annual interest rate.
+        double earnedInterest; // The interest earned during the year.
+
+        System.out.print("Enter the initial investment: ");
+        initialInvestment = TextIO.getlnDouble();
+        System.out.print("Enter the annual interest rate (as a decimal): ");
+        annualRate = TextIO.getlnDouble();
+
+        System.out.printf("You have entered $%1.2f as your initial investment%n", initialInvestment);
+        System.out.printf("You have entered $%1.2f as your annual rate%n", annualRate);
+
+        earnedInterest = initialInvestment * annualRate; // Compute this year's interest.
+        initialInvestment = initialInvestment + earnedInterest; // Add it to principal.
+
+        System.out.printf("The amount of interest is $%1.2f%n", earnedInterest);
+        System.out.printf("The value after one year is $%1.2f%n", initialInvestment);
+    } // end of main()
+} // end of class Interest2
+
+3.
+
+package Lab;
+
+/**
+ * This class implements a simple program that will compute
+ * the amount of interest that is earned on an investment over
+ * a period of one year. The initial amount of the investment
+ * and the interest rate are input by the user. The value of
+ * the investment at the end of the year is output. The
+ * rate must be input as a decimal, not a percentage (for
+ * example, 0.05 rather than 5).
+ */
+public class Interest2 {
+    public static void main(String[] args) {
+        double initialInvestment; // The value of the investment.
+        double annualRate; // The annual interest rate.
+        double earnedInterest; // The interest earned during the year.
+        double finalAmount; // Stores the final value of the investment after one year
+
+        System.out.print("Enter the initial investment: ");
+        initialInvestment = TextIO.getlnDouble();
+        System.out.print("Enter the annual interest rate (as a decimal): ");
+        annualRate = TextIO.getlnDouble();
+
+        System.out.printf("You have entered $%1.2f as your initial investment%n", initialInvestment);
+        System.out.printf("You have entered $%1.2f as your annual rate%n", annualRate);
+
+        earnedInterest = initialInvestment * annualRate; // Compute this year's interest.
+        finalAmount = initialInvestment + earnedInterest; // Add it to principal.
+
+        System.out.printf("The amount of interest is $%1.2f%n", earnedInterest);
+        System.out.printf("The value after one year is $%1.2f%n", finalAmount);
+    } // end of main()
+} // end of class Interest2
+
+4.
+
+Enter the initial investment: 17000
+Enter the annual interest rate (as a decimal): 0.027
+You have entered $17000.00 as your initial investment
+You have entered $0.03 as your annual rate
+The amount of interest is $459.00
+The value after one year is $17459.00
+
+5.
+
+package Lab;
+
+import java.util.Scanner;
+
+public class Interest2Scanner {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        double initialInvestment; // The value of the investment.
+        double annualRate; // The annual interest rate.
+        double earnedInterest; // The interest earned during the year.
+        double finalAmount; // Stores the final value of the investment after one year
+
+        System.out.print("Enter the initial investment: ");
+        initialInvestment = input.nextDouble();
+        System.out.print("Enter the annual interest rate (as a decimal): ");
+        annualRate = input.nextDouble();
+
+        System.out.printf("You have entered $%1.2f as your initial investment%n", initialInvestment);
+        System.out.printf("You have entered $%1.2f as your annual rate%n", annualRate);
+
+        earnedInterest = initialInvestment * annualRate; // Compute this year's Interest.
+        finalAmount = initialInvestment + earnedInterest; // Add it to initialInvestment.
+
+        System.out.printf("The amount of interest is $%1.2f%n", earnedInterest);
+        System.out.printf("The value after one year is $%1.2f%n", finalAmount);
+    }
+}

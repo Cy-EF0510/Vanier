@@ -1,0 +1,22 @@
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\MenuTestApp\MenuTestApp\bin\Debug\MenuTestApp.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\MenuTestApp\MenuTestApp\bin\Debug\MenuTestApp.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\MenuTestApp\MenuTestApp\bin\Debug\MenuTestApp.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.csproj.AssemblyReference.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.Properties.Resources.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.csproj.GenerateResource.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.csproj.CoreCompileInputs.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Demos\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.MenuTestApplication.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 1\MenuTestApp\MenuTestApp\bin\Debug\MenuTestApp.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 1\MenuTestApp\MenuTestApp\bin\Debug\MenuTestApp.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 1\MenuTestApp\MenuTestApp\bin\Debug\MenuTestApp.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 1\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.csproj.AssemblyReference.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 1\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 1\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.MenuTestApplication.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 1\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.Properties.Resources.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 1\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.csproj.GenerateResource.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 1\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.csproj.CoreCompileInputs.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 1\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 4\Example 1\MenuTestApp\MenuTestApp\obj\Debug\MenuTestApp.pdb

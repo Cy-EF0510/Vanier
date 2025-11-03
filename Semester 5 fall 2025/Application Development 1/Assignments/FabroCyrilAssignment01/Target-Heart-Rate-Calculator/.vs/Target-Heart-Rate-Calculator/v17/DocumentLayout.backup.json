@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Assignments\\FabroCyrilAssignment01\\Target-Heart-Rate-Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{293D6977-FBC7-4F70-A2B4-3B444218E593}|Target-Heart-Rate-Calculator\\Target-Heart-Rate-Calculator.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Assignments\\FabroCyrilAssignment01\\Target-Heart-Rate-Calculator\\target-heart-rate-calculator\\heartrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293D6977-FBC7-4F70-A2B4-3B444218E593}|Target-Heart-Rate-Calculator\\Target-Heart-Rate-Calculator.csproj|solutionrelative:target-heart-rate-calculator\\heartrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293D6977-FBC7-4F70-A2B4-3B444218E593}|Target-Heart-Rate-Calculator\\Target-Heart-Rate-Calculator.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\assignments\\fabrocyrilassignment01\\target-heart-rate-calculator\\target-heart-rate-calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293D6977-FBC7-4F70-A2B4-3B444218E593}|Target-Heart-Rate-Calculator\\Target-Heart-Rate-Calculator.csproj|solutionrelative:target-heart-rate-calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Assignments\\FabroCyrilAssignment01\\Target-Heart-Rate-Calculator\\Target-Heart-Rate-Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Target-Heart-Rate-Calculator\\Program.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Assignments\\FabroCyrilAssignment01\\Target-Heart-Rate-Calculator\\Target-Heart-Rate-Calculator\\Program.cs",
+              "RelativeToolTip": "Target-Heart-Rate-Calculator\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T18:41:32.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeartRates.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Assignments\\FabroCyrilAssignment01\\Target-Heart-Rate-Calculator\\Target-Heart-Rate-Calculator\\HeartRates.cs",
+              "RelativeDocumentMoniker": "Target-Heart-Rate-Calculator\\HeartRates.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Assignments\\FabroCyrilAssignment01\\Target-Heart-Rate-Calculator\\Target-Heart-Rate-Calculator\\HeartRates.cs",
+              "RelativeToolTip": "Target-Heart-Rate-Calculator\\HeartRates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T18:47:35.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

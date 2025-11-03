@@ -1,0 +1,96 @@
+/*
+*{
+	
+	border-width: 1px;
+	border-color: red;
+	border-style: solid;
+	
+	border: solid red 1px;
+	margin: 3px;
+	margin-right: 3px;
+	margin-top: 3px;
+
+	padding: 6px;
+}
+*/
+
+.small{
+	width: 64px;
+	height: 64px;
+}
+
+.medium{
+	width: 128px;
+	height: 128px;
+}
+
+.large{
+	width: 512px;
+	height: 512px;
+}
+
+hgroup{
+	/*
+	border-color: green;
+	border-style: dotted;
+	*/
+	margin: 5 2px;
+}
+
+p{
+	font-size: 18px;
+	font-style: italic;
+}
+
+
+#main_article{
+	text-transform:uppercase;
+}
+
+#intro_p{
+	background-color: lightgrey;
+	font-weight: bolder;
+}
+
+.myfirstgroup{
+	color:pink;
+}
+
+h5.myfirstgroup{
+	transform: rotate(180deg);
+}
+
+.image{
+	border: solid red 1px;
+}
+
+div.image{
+	background-color: pink;
+	background-image: url("hippo.jpg");
+	background-repeat: round;
+    background-size: contain;
+
+    text-align: center;
+}
+
+.label{
+	transform: rotate(-45deg);
+}
+
+.small > .label{
+    margin-top: 25px;
+    font-size: 8px;
+
+}
+
+.medium > .label{
+    margin-top: 55px;
+    font-weight: bold;
+
+}
+
+.large > .label{
+    margin-top: 250px;
+    font-weight: bolder;
+	font-size: 48px;
+}

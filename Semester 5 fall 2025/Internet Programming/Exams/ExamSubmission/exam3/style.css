@@ -1,0 +1,86 @@
+body{
+    background-color: #f0f2f5;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    line-height: 1.6;
+}
+
+header{
+    background-color: #4caf50;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin-top: 25px;
+    margin-left: 240px;
+    margin-right: 25px;
+    border-radius: 8px;
+    p{
+        padding-bottom: 10px;
+    }
+}
+
+aside{
+    background-color: #333333;
+    color: white;
+    position: absolute;
+    float:left;
+    width:215px; 
+    height: 163.5svh;
+    h3{
+    text-align: center;
+    }
+    nav ul{
+        list-style: none;
+    }
+    nav ul li a{
+        text-decoration-line: none;
+        color: white;
+        line-height: 2.5;
+    }
+}
+
+
+main{
+    padding: 15px;
+    padding-left: 225px;
+    padding-right: 10px;
+    /* position: relative; */
+    /* height: auto; */
+}
+
+footer{
+    text-align: center;
+    opacity: 50%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 180px;
+}
+
+.button{
+    background-color: #4caf50;
+    color: white;
+    padding: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 4px;
+    border: none;
+}
+
+.container{
+    background-color: white;
+    padding-top: 1px;
+    padding-bottom: 20px;
+    padding-left:15px;
+    padding-right:15px;
+    margin: 15px;
+    margin-top: 20px;
+    border-radius: 8px;
+
+    input, textarea{
+        width: 100%;
+        box-sizing: border-box;
+        padding: 8px;
+        font-family: 1rem;
+        margin-bottom: 20px;
+    }
+}

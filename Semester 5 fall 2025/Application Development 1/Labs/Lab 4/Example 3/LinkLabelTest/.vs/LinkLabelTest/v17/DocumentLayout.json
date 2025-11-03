@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 3\\LinkLabelTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60E7605B-D0BB-4A91-B735-585D790F317F}|LinkLabelTest\\LinkLabelTest.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\labs\\lab 4\\example 3\\linklabeltest\\linklabeltest\\linklabeltestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60E7605B-D0BB-4A91-B735-585D790F317F}|LinkLabelTest\\LinkLabelTest.csproj|solutionrelative:linklabeltest\\linklabeltestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E7605B-D0BB-4A91-B735-585D790F317F}|LinkLabelTest\\LinkLabelTest.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 3\\LinkLabelTest\\linklabeltest\\linklabeltestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E7605B-D0BB-4A91-B735-585D790F317F}|LinkLabelTest\\LinkLabelTest.csproj|solutionrelative:linklabeltest\\linklabeltestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkLabelTestForm.cs [Design]",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 3\\LinkLabelTest\\LinkLabelTest\\LinkLabelTestForm.cs",
+              "RelativeDocumentMoniker": "LinkLabelTest\\LinkLabelTestForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 3\\LinkLabelTest\\LinkLabelTest\\LinkLabelTestForm.cs [Design]",
+              "RelativeToolTip": "LinkLabelTest\\LinkLabelTestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:00:17.92Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkLabelTestForm.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 3\\LinkLabelTest\\LinkLabelTest\\LinkLabelTestForm.cs",
+              "RelativeDocumentMoniker": "LinkLabelTest\\LinkLabelTestForm.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Labs\\Lab 4\\Example 3\\LinkLabelTest\\LinkLabelTest\\LinkLabelTestForm.cs",
+              "RelativeToolTip": "LinkLabelTest\\LinkLabelTestForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:02:31.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

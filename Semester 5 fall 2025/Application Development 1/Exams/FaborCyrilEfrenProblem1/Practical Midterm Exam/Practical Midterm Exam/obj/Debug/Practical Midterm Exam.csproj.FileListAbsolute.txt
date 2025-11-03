@@ -1,0 +1,16 @@
+C:\Users\6243515\source\repos\Practical Midterm Exam\Practical Midterm Exam\bin\Debug\Practical Midterm Exam.exe.config
+C:\Users\6243515\source\repos\Practical Midterm Exam\Practical Midterm Exam\bin\Debug\Practical Midterm Exam.exe
+C:\Users\6243515\source\repos\Practical Midterm Exam\Practical Midterm Exam\bin\Debug\Practical Midterm Exam.pdb
+C:\Users\6243515\source\repos\Practical Midterm Exam\Practical Midterm Exam\obj\Debug\Practical Midterm Exam.csproj.AssemblyReference.cache
+C:\Users\6243515\source\repos\Practical Midterm Exam\Practical Midterm Exam\obj\Debug\Practical Midterm Exam.csproj.CoreCompileInputs.cache
+C:\Users\6243515\source\repos\Practical Midterm Exam\Practical Midterm Exam\obj\Debug\Practical Midterm Exam.exe
+C:\Users\6243515\source\repos\Practical Midterm Exam\Practical Midterm Exam\obj\Debug\Practical Midterm Exam.pdb
+C:\Users\6243515\source\repos\Practical Midterm Exam\Practical Midterm Exam\obj\Debug\Practical Midterm Exam.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Exams\FaborCyrilEfrenProblem1\Practical Midterm Exam\Practical Midterm Exam\bin\Debug\Practical Midterm Exam.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Exams\FaborCyrilEfrenProblem1\Practical Midterm Exam\Practical Midterm Exam\bin\Debug\Practical Midterm Exam.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Exams\FaborCyrilEfrenProblem1\Practical Midterm Exam\Practical Midterm Exam\bin\Debug\Practical Midterm Exam.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Exams\FaborCyrilEfrenProblem1\Practical Midterm Exam\Practical Midterm Exam\obj\Debug\Practical Midterm Exam.csproj.AssemblyReference.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Exams\FaborCyrilEfrenProblem1\Practical Midterm Exam\Practical Midterm Exam\obj\Debug\Practical Midterm Exam.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Exams\FaborCyrilEfrenProblem1\Practical Midterm Exam\Practical Midterm Exam\obj\Debug\Practical Midterm Exam.csproj.CoreCompileInputs.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Exams\FaborCyrilEfrenProblem1\Practical Midterm Exam\Practical Midterm Exam\obj\Debug\Practical Midterm Exam.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Exams\FaborCyrilEfrenProblem1\Practical Midterm Exam\Practical Midterm Exam\obj\Debug\Practical Midterm Exam.pdb

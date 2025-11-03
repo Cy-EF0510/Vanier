@@ -1,0 +1,11 @@
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\BankLibrary\BankLibrary\bin\Debug\BankLibrary.exe.config
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\BankLibrary\BankLibrary\bin\Debug\BankLibrary.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\BankLibrary\BankLibrary\bin\Debug\BankLibrary.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\BankLibrary\BankLibrary\obj\Debug\BankLibrary.csproj.AssemblyReference.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\BankLibrary\BankLibrary\obj\Debug\BankLibrary.BankUIForm.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\BankLibrary\BankLibrary\obj\Debug\BankLibrary.Properties.Resources.resources
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\BankLibrary\BankLibrary\obj\Debug\BankLibrary.csproj.GenerateResource.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\BankLibrary\BankLibrary\obj\Debug\BankLibrary.csproj.CoreCompileInputs.cache
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\BankLibrary\BankLibrary\obj\Debug\BankLibrary.exe
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\BankLibrary\BankLibrary\obj\Debug\BankLibrary.pdb
+D:\Vanier\Semester 5 fall 2025\Application Development 1\Labs\Lab 5\BankLibrary\BankLibrary\obj\Debug\BankLibrary.exe.config

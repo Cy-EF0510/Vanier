@@ -1,0 +1,56 @@
+.hidden{
+    position: absolute; 
+    left: 512px; 
+    top: 128px; 
+    width: 128px; 
+    height: 128px; 
+    border: solid black 2px; 
+    text-transform: uppercase; 
+    font-weight: bolder;
+    background-color: white; 
+    /* display: none; */
+}
+
+.bggrey{
+    background-color: gray;
+}
+
+p.bggrey{
+    color: red;
+}
+
+.bggrey form[action="search.php"] > label{
+    color: white;
+}
+
+img[src="hippo.jpg"]{
+    height: 128px;
+    border: solid purple 8px;
+}
+
+img[src="black_pearl.webp"]{
+    height: 256px;
+    border: dashed black 8px;
+}
+
+p:nth-of-type(2){
+    border: solid blue 4px;
+    font-style: italic;
+}
+
+tbody tr:nth-child(odd){
+    color: lightgrey;
+}
+
+tbody tr:nth-child(odd){
+    background-color: lightblue;
+}
+
+p:hover{
+    background-color: black;
+    color: white;
+}
+
+/* .hidden:hover{
+    display: none;
+} */

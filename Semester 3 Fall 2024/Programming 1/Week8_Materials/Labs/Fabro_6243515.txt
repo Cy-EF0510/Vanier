@@ -1,0 +1,76 @@
+1.
+
+public class BirthdayProblem1 {
+    public static void main(String[] args) {
+        int[] used;
+        int count; 
+        used = new int[365];
+        count = 0;
+        while (true) {
+            int birthday; 
+            birthday = (int) (Math.random() * 365);
+            count++;
+            System.out.printf("Person %d has birthday number %d%n", count, birthday);
+            used[birthday]++;
+            if (used[birthday] == 3) {
+                break;
+            }
+        }
+        System.out.println();
+        System.out.println("A duplicate birthday was found after "
+                + count + " tries.");
+    }
+} 
+
+2.
+
+public class BirthdayProblem2 {
+    public static void main(String[] args) {
+        int[] used;
+        int duplicate;
+        used = new int[365];
+        duplicate = 0;
+
+        for (int i = 0; i < 365; i++) {
+            int birthday;
+            birthday = (int) (Math.random() * 365);
+            used[birthday]++;
+        }
+        for (int j = 0; j < used.length; j++) {
+            if (used[j] > 0) {
+                if (used[j] == 1) {
+                    System.out.println("Day" + j + " has " + used[j] + " person");
+                } else {
+                    System.out.println("Day" + j + " has " + used[j] + " people");
+                }
+                duplicate++;
+            }
+        }
+        System.out.println();
+        System.out.println("There are " + duplicate + " different birthdays");
+    }
+}
+
+3.
+
+public class BirthdayProblem3 {
+    public static void main(String[] args) {
+        int[] used;
+        int count, usedDays;
+        used = new int[365];
+        count = 0;
+        usedDays = 0;
+
+        while (usedDays < 365) {
+            int birthday = (int) (Math.random() * 365);
+            count++;
+            used[birthday]++;
+            if (used[birthday] == 1) {
+                usedDays++;
+            }
+        }
+
+        System.out.println();
+        System.out.println("It took " + count + " people to have at least one person per for each day of the year");
+    }
+} 

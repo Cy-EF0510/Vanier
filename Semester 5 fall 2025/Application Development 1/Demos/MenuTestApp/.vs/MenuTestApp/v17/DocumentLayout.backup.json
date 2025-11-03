@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Demos\\MenuTestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25488C-80A4-4A7C-9134-750C668A274A}|MenuTestApp\\MenuTestApp.csproj|d:\\vanier\\semester 5 fall 2025\\application development 1\\demos\\menutestapp\\menutestapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F25488C-80A4-4A7C-9134-750C668A274A}|MenuTestApp\\MenuTestApp.csproj|solutionrelative:menutestapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25488C-80A4-4A7C-9134-750C668A274A}|MenuTestApp\\MenuTestApp.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Demos\\MenuTestApp\\menutestapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F25488C-80A4-4A7C-9134-750C668A274A}|MenuTestApp\\MenuTestApp.csproj|solutionrelative:menutestapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25488C-80A4-4A7C-9134-750C668A274A}|MenuTestApp\\MenuTestApp.csproj|D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Demos\\MenuTestApp\\menutestapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F25488C-80A4-4A7C-9134-750C668A274A}|MenuTestApp\\MenuTestApp.csproj|solutionrelative:menutestapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Demos\\MenuTestApp\\MenuTestApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MenuTestApp\\Form1.Designer.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Demos\\MenuTestApp\\MenuTestApp\\Form1.Designer.cs",
+              "RelativeToolTip": "MenuTestApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAqwJwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:36:35.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Demos\\MenuTestApp\\MenuTestApp\\Form1.cs",
+              "RelativeDocumentMoniker": "MenuTestApp\\Form1.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Demos\\MenuTestApp\\MenuTestApp\\Form1.cs",
+              "RelativeToolTip": "MenuTestApp\\Form1.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAywGUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:40:42.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Demos\\MenuTestApp\\MenuTestApp\\Form1.cs",
+              "RelativeDocumentMoniker": "MenuTestApp\\Form1.cs",
+              "ToolTip": "D:\\Vanier\\Semester 5 fall 2025\\Application Development 1\\Demos\\MenuTestApp\\MenuTestApp\\Form1.cs [Design]",
+              "RelativeToolTip": "MenuTestApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:27:43.419Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

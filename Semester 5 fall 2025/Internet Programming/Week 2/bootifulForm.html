@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My 1st Form</title>
+    <link href="style.css" type="text/css" rel="stylesheet">
+    <!--
+    <style>
+        body {background-color: powderblue;}
+        h1   {color: blue;}
+        p    {color: red;}
+</style>
+-->
+</head>
+<body>
+    <p>paragraph 1</p>
+    <p id="second-p">paragraph 2</p>
+    <p>paragraph 3</p>    
+
+    <h1>Totally Not Suspicious Website</h1>
+    <form action="script.php" method="GET">
+        <label for="user">Username:</label>
+        <input id="user" type="text" name="uname" placeholder="Username">
+        <br> <!-- goes to the next line-->
+        <label for="pswd">Password:</label>
+        <input id="pswd"type="password" name="pass" placeholder="Must have 8 characters">
+
+        <br>
+        <button type="submit">Submit</button>
+        <br>
+        <input type="button" value="Dont Click This Button" onclick="document.location='https://www.youtube.com/watch?v=dQw4w9WgXcQ'">
+        <br>
+        <button>My Button</button>
+
+        <br>
+        <h4>Gender</h4>
+        <!--adding "name="gender" having radio buttons with the same name means you can only pick one button-->
+        <input id="male" type="radio" name="gender" value="m"><label for="male">Male</label>
+        <input id="female" type="radio" name="gender" value="f"><label for="female">Female</label>
+        <input id="unknown" type="radio" name="gender" value="dne"><label for="unknown">Rather not Disclose</label>
+        <br>
+
+
+        <h4>Pets</h4>
+        <input id="bird" type="checkbox" name="Pets" value="b"><label for="bird">Bird</label>
+        <input id="cat" type="checkbox" name="Pets" value="c"><label for="cat">Cat</label>
+        <input id="dog" type="checkbox" name="Pets" value="d"><label for="dog">Dog</label>
+        <input id="alligator" type="checkbox" name="Pet" value="a"><label for="alligator">Alligator</label>
+        <input id="hippo" type="checkbox" name="Pets" value="h"><label for="hippo">Hippo</label>
+        <!--<input id="other" type="text" name="Pets" value="o"><label for="other">Other</label>-->
+        <br>
+        <label>Comments</label>
+        <br>
+        <textarea name="comments" rows="5" cols="15"></textarea>
+    </form>
+</body>
+    
+</html>

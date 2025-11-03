@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My 1st Form</title>
+</head>
+<body>
+    <form action="script.php" method="GET">
+        <label for="user">Username:</label>
+        <input id="user" type="text" name="uname" value="fabroc">
+        <br> <!-- goes to the next line-->
+        <label for="pswd">Password:</label>
+        <input id="pswd"type="password" name="pass" placeholder="Must have 8 characters">
+
+        <br>
+        <input type="submit">
+        <br>
+        <button type="submit">Submit</button>
+        <h2>Different ways to type button</h2>
+        <input type="button" value="My Button">
+        <br>
+        <button>My Button</button>
+
+        <br>
+        <h4>Gender</h4>
+        <!--adding "name="gender" having radio buttons with the same name means you can only pick one button-->
+        <input id="male" type="radio" name="gender" value="m"><label for="male">Male</label>
+        <input id="female" type="radio" name="gender" value="f"><label for="female">Female</label>
+        <input id="unknown" type="radio" name="gender" value="dne"><label for="unknown">Rather not Disclose</label>
+        <br>
+        <select name="sel_gender">
+            <option value="m">Male</option>
+            <option value="f">Female</option>
+            <option value="u">Unknown</option>
+        </select>
+
+
+        <h4>Pets</h4>
+        <input id="bird" type="checkbox" name="Pets" value="b"><label for="bird">Bird</label>
+        <input id="cat" type="checkbox" name="Pets" value="c"><label for="cat">Cat</label>
+        <input id="dog" type="checkbox" name="Pets" value="d"><label for="dog">Dog</label>
+        <input id="alligator" type="checkbox" name="Pet" value="a"><label for="alligator">Alligator</label>
+        <input id="hippo" type="checkbox" name="Pets" value="h"><label for="hippo">Hippo</label>
+        <!--<input id="other" type="text" name="Pets" value="o"><label for="other">Other</label>-->
+
+        <br>
+        <select name="sel_pets" multiple size="5">
+            <option value="b">Bird</option>
+            <option value="c">Cat</option>
+            <option value="d">Dog</option>
+            <option value="a">Alligator</option>
+            <option value="h">Hippo</option>
+        </select>
+
+
+        <br>
+        <label>Comments</label>
+        <textarea name="comments" rows="5" cols="15"></textarea>
+    </form>
+</body>
+    
+</html>

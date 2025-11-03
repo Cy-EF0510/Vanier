@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Working with Dates</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script type="text/javascript" src="dates.js"></script>
+</head>
+<body onload="fillDates();calculateChristmas();">
+	<div class="wrapper">
+		<form action="" method="GET">
+			<label>Select your Birthday</label>
+			<select id="year">
+				<option>Year</option>
+			</select>
+
+			<select id="month">
+				<option>Month</option>
+			</select>
+
+			<select id="day">
+				<option>Day</option>
+			</select>
+
+
+
+			<br><button type="button" onclick="calculateAgeInDays();">Calculate Age in Days</button>
+		</form>
+
+		<h2>Age in Days</h2>
+		<div class="age">0 Days</div>
+
+		<h2>Days till Christmas</h2>
+		<div class="christmas">0 Days</div>
+	</div>
+</body>
+</html>

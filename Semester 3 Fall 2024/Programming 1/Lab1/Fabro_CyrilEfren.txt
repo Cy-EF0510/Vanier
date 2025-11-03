@@ -1,0 +1,82 @@
+1.
+        public class HelloWorld {
+            public static void main(String[] args) {
+                System.out.println("Cyril Efren Fabro");
+            }
+        }
+
+
+2.
+        public class SimpleMessage {
+            public static void main(String[] args) {
+                System.out.println("Jobs have a high salary");
+                System.out.println("You can have a remote job");
+                System.out.println("I want to try making a video game");
+            }
+        }
+
+
+3.
+        /*
+        * Cyril Efren Fabro
+        * 6243515
+        * Programming 1
+        * 420-101-VA sect. 00005
+        */
+        public class HelloWorld {
+            public static void main(String[] args) {
+                System.out.println("Cyril Efren Fabro");
+            }
+        }
+
+        /*
+        * Cyril Efren Fabro
+        * 6243515
+        * Programming 1
+        * 420-101-VA sect. 00005
+        */
+        public class SimpleMessage {
+            public static void main(String[] args) {
+                System.out.println("Jobs have a high salary");
+                System.out.println("You can have a remote job");
+                System.out.println("I want to try making a video game");
+            }
+        }
+
+
+4.
+        /*
+        * Cyril Efren Fabro
+        * 6243515
+        * Programming 1
+        * 420-101-VA sect. 00005
+        */
+        public class HelloWorld {//This is the name of the class/program
+            public static void main(String[] args) {//This is where you write and is the start of your code
+                System.out.println("Cyril Efren Fabro");//This command prints my full name
+            }//this closes the program/code
+        }//This closes the class
+
+        /*
+        * Cyril Efren Fabro
+        * 6243515
+        * Programming 1
+        * 420-101-VA sect. 00005
+        */
+        public class SimpleMessage {//This is the name of the class/program
+            public static void main(String[] args) {//This is where you write and is the start of your code
+                System.out.println("Jobs have a high salary\n" + 
+                        "You can have a remote job\n" + 
+                        "I want to try making a video game");//This command prints the reasons why I want to get into Computer Science
+            }//this closes the program/code
+        }//This closes the class
+
+
+5.
+        public class DataRepresentation {
+            public static void main(String[] args) {
+                System.out.println("If the world was ending, I'd wanna be next to you");
+                System.out.println("727");
+                System.out.println("3.14159");
+            }
+        }
