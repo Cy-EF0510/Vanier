@@ -1,0 +1,38 @@
+BAD
+
+GET /updateBookPrice?id=45&price=9.99
+POST /deleteUser/102
+GET /getAvailableCarsInMontreal
+POST /addNewCommentToPost?postId=55
+
+GOOD
+
+GET /books/45
+POST /users/102
+GET /cars?status=available&location=montreal
+POST /posts/55
+
+
+Retrieve a paginated list of all books (e.g., page 2, 20 items per page).
+GET /books?page=2
+
+Add a completely new book to the library inventory.
+POST /books
+
+Retrieve the details of a specific book with ID 42.
+GET /books/42
+
+Completely replace the details of book 42.
+PATCH /books/42
+
+Delete book 42 from the system.
+DELETE /books/42
+
+Retrieve a list of all reviews written specifically for book 42 (Hierarchical relationship).
+GET /books/42/comments
+
+Post a new review for book 42.
+POST /books/42/comments
+
+
+
