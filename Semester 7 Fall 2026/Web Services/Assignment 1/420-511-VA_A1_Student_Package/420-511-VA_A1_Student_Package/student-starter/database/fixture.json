@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Mirrorless camera",
+    "category": "camera"
+  },
+  {
+    "id": 2,
+    "name": "DSLR camera",
+    "category": "camera"
+  },
+  {
+    "id": 3,
+    "name": "USB microphone",
+    "category": "audio"
+  },
+  {
+    "id": 4,
+    "name": "Audio recorder",
+    "category": "audio"
+  },
+  {
+    "id": 5,
+    "name": "Tripod",
+    "category": "accessory"
+  },
+  {
+    "id": 6,
+    "name": "LED light kit",
+    "category": "accessory"
+  },
+  {
+    "id": 7,
+    "name": "Action camera",
+    "category": "camera"
+  },
+  {
+    "id": 8,
+    "name": "Headphones",
+    "category": "audio"
+  }
+]

@@ -1,0 +1,27 @@
+# Optional VS Code REST Client format. You can use curl, Postman or Insomnia instead.
+# Reset the database first. Replace the base URL with your own local URL.
+@base = http://localhost:8000/api/v1
+
+### 1 List the first page: 200, IDs 1 and 2, total 8
+GET {{base}}/items
+
+### 2 Combine the category filter and page: 200, ID 7, total 3
+GET {{base}}/items?category=camera&page=2
+
+### 3 Missing item: 404 with a JSON error message
+GET {{base}}/items/999
+
+### 4 Create: 201 with the new item and a Location header
+POST {{base}}/items
+Content-Type: application/json
+
+{"name":"Portable projector","category":"accessory"}
+
+# After request 4, GET the URI in Location and confirm the same item is returned.
+# You can also inspect the new row in MariaDB. Do not assume a particular new ID.
+
+### 5 Reject a missing name: 400, with no inserted row
+POST {{base}}/items
+Content-Type: application/json
+
+{"category":"camera"}
