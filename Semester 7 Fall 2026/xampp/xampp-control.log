@@ -1,0 +1,22 @@
+8:08:58 PM  [main] 	Initializing Control Panel
+8:08:58 PM  [main] 	Windows Version:  Home  64-bit
+8:08:58 PM  [main] 	XAMPP Version: 8.2.12
+8:08:58 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+8:08:58 PM  [main] 	You are not running with administrator rights! This will work for
+8:08:58 PM  [main] 	most application stuff but whenever you do something with services
+8:08:58 PM  [main] 	there will be a security dialogue or things will break! So think 
+8:08:58 PM  [main] 	about running this application with administrator rights!
+8:08:58 PM  [main] 	XAMPP Installation Directory: "c:\users\efren\documents\github\vanier\semester 7 fall 2026\xampp\"
+8:08:58 PM  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+8:08:58 PM  [main] 	Checking for prerequisites
+8:08:59 PM  [main] 	All prerequisites found
+8:08:59 PM  [main] 	Initializing Modules
+8:08:59 PM  [main] 	Starting Check-Timer
+8:08:59 PM  [main] 	Control Panel Ready
+8:09:01 PM  [Apache] 	Attempting to start Apache app...
+8:09:01 PM  [Apache] 	Status change detected: running
+8:09:03 PM  [mysql] 	Attempting to start MySQL app...
+8:09:04 PM  [mysql] 	Status change detected: running
+9:54:28 PM  [main] 	Deinitializing Modules
+9:54:28 PM  [main] 	Deinitializing Control Panel
+
