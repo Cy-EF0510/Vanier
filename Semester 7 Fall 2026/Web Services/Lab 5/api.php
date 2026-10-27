@@ -1,4 +1,57 @@
 <?php
+//Helper function to send standardized JSON error responses
+// Helper function to send standardized JSON error responses
+function sendError(int $statusCode, string $message, array $details = []) {
+    http_response_code($statusCode);
+    $response = [
+        "status" => $statusCode,
+        "error" => $message
+    ];
+    if (!empty($details)) {
+        $response["details"] = $details;
+    }
+    echo json_encode($response);
+    exit; // Stop execution immediately
+}
+// Global Exception Handler Middleware
+set_exception_handler(function ($exception) {
+    // In production, you would log $exception->getMessage() to a file
+    // rather than exposing internal database details to the user.
+    sendError(500, "Internal Server Error", [
+        "debug_message" => $exception->getMessage()
+    ]);
+});
+
+function runContentNegotiationMiddleware(string $method) {
+    // 1. Check the 'Accept' header (What the client wants back)
+    $acceptHeader = $_SERVER['HTTP_ACCEPT'] ?? '*/*';
+    
+    // If client doesn't accept JSON or wildcard (*/*), reject with 406
+    if (strpos($acceptHeader, 'application/json') === false &&
+        strpos($acceptHeader, '*/*') === false) {
+        sendError(406, "Not Acceptable. This API only provides application/json.");
+    }
+        // 2. Check 'Content-Type' for methods that send a body
+        if (in_array($method, ['POST', 'PUT', 'PATCH'])) {
+            $contentType = $_SERVER['CONTENT_TYPE'] ?? '';
+            
+            // If they aren't sending JSON, reject with 415
+            if (strpos($contentType, 'application/json') === false) {
+                sendError(415, "Unsupported Media Type. Please send application/json.");
+        }
+    }
+}
+//--- Execute Pipeline--
+header("Access-Control-Allow-Origin: *");
+header("Content-Type: application/json; charset=UTF-8");
+header("Access-Control-Allow-Methods: GET, POST, PUT, PATCH, DELETE");
+
+$method = $_SERVER['REQUEST_METHOD'];
+$uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+
+// Run the middleware!
+runContentNegotiationMiddleware($method);
+
 // Database Configuration
 $host = '127.0.0.1';
 $db = 'library_db';
