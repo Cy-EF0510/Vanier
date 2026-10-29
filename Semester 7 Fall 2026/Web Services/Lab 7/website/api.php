@@ -57,7 +57,8 @@ function validateBookInput(?array $input): array
 }
 
 //Helper function to send standardized JSON error responses
-function sendError(int $statusCode, string $message, array $details = []) {
+function sendError(int $statusCode, string $message, array $details = [])
+{
     http_response_code($statusCode);
     $response = [
         "status" => $statusCode,
@@ -78,25 +79,29 @@ set_exception_handler(function ($exception) {
     ]);
 });
 
-function runContentNegotiationMiddleware(string $method) {
+function runContentNegotiationMiddleware(string $method)
+{
     // 1. Check the 'Accept' header (What the client wants back)
     $acceptHeader = $_SERVER['HTTP_ACCEPT'] ?? '*/*';
-    
+
     // If client doesn't accept JSON or wildcard (*/*), reject with 406
-    if (strpos($acceptHeader, 'application/json') === false &&
-        strpos($acceptHeader, '*/*') === false) {
+    if (
+        strpos($acceptHeader, 'application/json') === false &&
+        strpos($acceptHeader, '*/*') === false
+    ) {
         sendError(406, "Not Acceptable. This API only provides application/json.");
     }
-        // 2. Check 'Content-Type' for methods that send a body
-        if (in_array($method, ['POST', 'PUT', 'PATCH'])) {
-            $contentType = $_SERVER['CONTENT_TYPE'] ?? '';
-            
-            // If they aren't sending JSON, reject with 415
-            if (strpos($contentType, 'application/json') === false) {
-                sendError(415, "Unsupported Media Type. Please send application/json.");
+    // 2. Check 'Content-Type' for methods that send a body
+    if (in_array($method, ['POST', 'PUT', 'PATCH'])) {
+        $contentType = $_SERVER['CONTENT_TYPE'] ?? '';
+
+        // If they aren't sending JSON, reject with 415
+        if (strpos($contentType, 'application/json') === false) {
+            sendError(415, "Unsupported Media Type. Please send application/json.");
         }
     }
 }
+
 //--- Execute Pipeline--
 header("Access-Control-Allow-Origin: *");
 header("Content-Type: application/json; charset=UTF-8");
@@ -146,133 +151,128 @@ $uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 if ($uri === '/website/api.php/books') {
 
 
-if ($method === 'GET') {
-    // 1. Extract Pagination Params (with sensible defaults)
-    $page = isset($_GET['page']) ? (int) $_GET['page'] : 1;
-    $limit = isset($_GET['limit']) ? (int) $_GET['limit'] : 5;
+    if ($method === 'GET') {
+        // 1. Extract Pagination Params (with sensible defaults)
+        $page = isset($_GET['page']) ? (int) $_GET['page'] : 1;
+        $limit = isset($_GET['limit']) ? (int) $_GET['limit'] : 5;
 
-    // Enforce boundaries (prevent negative numbers or massive limits)
-    if ($page < 1) {
-        $page = 1;
-    }
+        // Enforce boundaries (prevent negative numbers or massive limits)
+        if ($page < 1) {
+            $page = 1;
+        }
 
-    if ($limit < 1) {
-        $limit = 5;
-    }
+        if ($limit < 1) {
+            $limit = 5;
+        }
 
-    if ($limit > 50) {
-        $limit = 50; // Max 50 items per page
-    }
+        if ($limit > 50) {
+            $limit = 50; // Max 50 items per page
+        }
 
-    $offset = ($page - 1) * $limit;
+        $offset = ($page - 1) * $limit;
 
-    // 2. Build Dynamic Filtering (WHERE clauses)
-    $whereClauses = [];
-    $queryParams = [];
+        // 2. Build Dynamic Filtering (WHERE clauses)
+        $whereClauses = [];
+        $queryParams = [];
 
-    // Filter by Author (exact or partial match)
-    if (!empty($_GET['author'])) {
-        $whereClauses[] = "author LIKE :author";
-        $queryParams['author'] = "%" . $_GET['author'] . "%";
-    }
+        // Filter by Author (exact or partial match)
+        if (!empty($_GET['author'])) {
+            $whereClauses[] = "author LIKE :author";
+            $queryParams['author'] = "%" . $_GET['author'] . "%";
+        }
 
-    // Filter by Availability (0 or 1)
-    if (isset($_GET['is_available']) && $_GET['is_available'] !== '') {
-        $whereClauses[] = "is_available = :is_available";
-        $queryParams['is_available'] = (int) $_GET['is_available'];
-    }
+        // Filter by Availability (0 or 1)
+        if (isset($_GET['is_available']) && $_GET['is_available'] !== '') {
+            $whereClauses[] = "is_available = :is_available";
+            $queryParams['is_available'] = (int) $_GET['is_available'];
+        }
 
-    // Combine WHERE clauses if any exist
-    $whereSql = "";
+        // Combine WHERE clauses if any exist
+        $whereSql = "";
 
-    if (count($whereClauses) > 0) {
-        $whereSql = "WHERE " . implode(" AND ", $whereClauses);
-    }
+        if (count($whereClauses) > 0) {
+            $whereSql = "WHERE " . implode(" AND ", $whereClauses);
+        }
 
-    // 3. Get Total Count (for metadata)
-    $countSql = "SELECT COUNT(*) FROM books $whereSql";
-    $countStmt = $pdo->prepare($countSql);
-    $countStmt->execute($queryParams);
+        // 3. Get Total Count (for metadata)
+        $countSql = "SELECT COUNT(*) FROM books $whereSql";
+        $countStmt = $pdo->prepare($countSql);
+        $countStmt->execute($queryParams);
 
-    $totalItems = (int) $countStmt->fetchColumn();
-    $totalPages = (int) ceil($totalItems / $limit);
+        $totalItems = (int) $countStmt->fetchColumn();
+        $totalPages = (int) ceil($totalItems / $limit);
 
-    // 4. Fetch the Paginated Data
-    $dataSql = "SELECT * FROM books $whereSql LIMIT :limit OFFSET :offset";
-    $dataStmt = $pdo->prepare($dataSql);
+        // 4. Fetch the Paginated Data
+        $dataSql = "SELECT * FROM books $whereSql LIMIT :limit OFFSET :offset";
+        $dataStmt = $pdo->prepare($dataSql);
 
-    // Bind filter params
-    foreach ($queryParams as $key => $val) {
-        $dataStmt->bindValue(":$key", $val);
-    }
+        // Bind filter params
+        foreach ($queryParams as $key => $val) {
+            $dataStmt->bindValue(":$key", $val);
+        }
 
-    // Bind pagination params explicitly as integers
-    $dataStmt->bindValue(':limit', $limit, PDO::PARAM_INT);
-    $dataStmt->bindValue(':offset', $offset, PDO::PARAM_INT);
+        // Bind pagination params explicitly as integers
+        $dataStmt->bindValue(':limit', $limit, PDO::PARAM_INT);
+        $dataStmt->bindValue(':offset', $offset, PDO::PARAM_INT);
 
-    $dataStmt->execute();
-    $books = $dataStmt->fetchAll();
+        $dataStmt->execute();
+        $books = $dataStmt->fetchAll();
 
-    // 5. Return Enveloped Response
-    http_response_code(200);
+        // 5. Return Enveloped Response
+        http_response_code(200);
 
-    echo json_encode([
-        "metadata" => [
-            "total_items" => $totalItems,
-            "total_pages" => $totalPages,
-            "current_page" => $page,
-            "per_page" => $limit
-        ],
-        "data" => $books
-    ]);
+        echo json_encode([
+            "metadata" => [
+                "total_items" => $totalItems,
+                "total_pages" => $totalPages,
+                "current_page" => $page,
+                "per_page" => $limit
+            ],
+            "data" => $books
+        ]);
 
-} elseif ($method === 'POST') {
-    $rawJson = file_get_contents('php://input');
-    $input = json_decode($rawJson, true);
+    } elseif ($method === 'POST') {
+        $rawJson = file_get_contents('php://input');
+        $input = json_decode($rawJson, true);
 
-    // Run validation
-    $validationErrors = validateBookInput($input);
+        // Run validation
+        $validationErrors = validateBookInput($input);
 
-    if (!empty($validationErrors)) {
-        // 422 Unprocessable Entity is standard for validation failures
-        sendError(422, "Validation Failed", $validationErrors);
-    }
+        if (!empty($validationErrors)) {
+            // 422 Unprocessable Entity is standard for validation failures
+            sendError(422, "Validation Failed", $validationErrors);
+        }
 
-    // Sanitize by trimming whitespace
-    $title = trim($input['title']);
-    $author = trim($input['author']);
-    $isAvailable = $input['is_available'] ?? true;
+        // Sanitize by trimming whitespace
+        $title = trim($input['title']);
+        $author = trim($input['author']);
+        $isAvailable = $input['is_available'] ?? true;
 
-    $sql = "INSERT INTO books (title, author, is_available)
+        $sql = "INSERT INTO books (title, author, is_available)
             VALUES (:title, :author, :is_available)";
 
-    $stmt = $pdo->prepare($sql);
-    $stmt->execute([
-        'title' => $title,
-        'author' => $author,
-        'is_available' => (int) $isAvailable
-    ]);
+        $stmt = $pdo->prepare($sql);
+        $stmt->execute([
+            'title' => $title,
+            'author' => $author,
+            'is_available' => (int) $isAvailable
+        ]);
 
-    http_response_code(201);
+        http_response_code(201);
 
-    echo json_encode([
-        "message" => "Book created successfully",
-        "id" => (int) $pdo->lastInsertId()
-    ]);
+        echo json_encode([
+            "message" => "Book created successfully",
+            "id" => (int) $pdo->lastInsertId()
+        ]);
+
+    }
+
 } elseif (preg_match('/^\/website\/api\.php\/books\/([0-9]+)$/', $uri, $matches)) {
 
     // The ID is captured in $matches[1]
     $bookId = (int) $matches[1];
 
-    if ($method === 'GET') {
-        $stmt = $pdo->prepare('SELECT * FROM books WHERE id = :id');
-        $stmt->execute(['id' => $bookId]);
-
-        $book = $stmt->fetch();
-
-        http_response_code(200);
-        echo json_encode($book);
-    } elseif ($method === 'DELETE') {
+    if ($method === 'DELETE') {
         $stmt = $pdo->prepare('DELETE FROM books WHERE id = :id');
         $stmt->execute(['id' => $bookId]);
 
@@ -281,33 +281,40 @@ if ($method === 'GET') {
             echo json_encode(["error" => "Book not found"]);
             exit;
         }
-
         http_response_code(200);
         echo json_encode(["message" => "Book deleted successfully"]);
-} elseif ($method === 'PATCH') {
-    $rawJson = file_get_contents('php://input');
-    $input = json_decode($rawJson, true);
 
-    if (!isset($input['is_available'])) {
-        http_response_code(400);
-        echo json_encode(["error" => "Missing is_available"]);
-        exit;
+    } elseif ($method === 'GET') {
+        $stmt = $pdo->prepare('SELECT * FROM books WHERE id = :id');
+        $stmt->execute(['id' => $bookId]);
+
+        $book = $stmt->fetch();
+
+        http_response_code(200);
+        echo json_encode($book);
+
+    } elseif ($method === 'PATCH') {
+        $rawJson = file_get_contents('php://input');
+        $input = json_decode($rawJson, true);
+
+        if (!isset($input['is_available'])) {
+            http_response_code(400);
+            echo json_encode(["error" => "Missing is_available"]);
+            exit;
+        }
+
+        $sql = 'UPDATE books SET is_available = :status WHERE id = :id';
+        $stmt = $pdo->prepare($sql);
+
+        $stmt->execute([
+            'status' => $input['is_available'],
+            'id' => $bookId
+        ]);
+
+        // 5. Return a success message
+        http_response_code(200);
+        echo json_encode(["message" => "Book availability updated successfully"]);
     }
-
-    $sql = 'UPDATE books SET is_available = :status WHERE id = :id';
-    $stmt = $pdo->prepare($sql);
-
-    $stmt->execute([
-        'status' => $input['is_available'],
-        'id' => $bookId
-    ]);
-
-    // 5. Return a success message
-    http_response_code(200);
-    echo json_encode(["message" => "Book availability updated successfully"]);
-}
-}
-
 } else {
     // 4. Handle 404 Not Found for unknown URIs
     http_response_code(404);
