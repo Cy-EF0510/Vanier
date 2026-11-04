@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Library Manager Client</title>
+        <style>
+            body {
+                font-family: sans-serif;
+                max-width: 800px;
+                margin: 20px auto;
+                padding: 0 15px;
+            }
+            .box {
+                border: 1px solid #ccc;
+                padding: 15px;
+                margin-bottom: 20px;
+                border-radius: 5px;
+            }
+            .error-box {
+                background: #ffe6e6;
+                border-color: #cc0000;
+                color: #990000;
+                display: none;
+            }
+            .success-box {
+                background: #e6ffe6;
+                border-color: #009900;
+                color: #006600;
+                display: none;
+            }
+            table {
+                width: 100%;
+                border-collapse: collapse;
+                margin-top: 10px;
+            }
+            th,
+            td {
+                border: 1px solid #ddd;
+                padding: 8px;
+                text-align: left;
+            }
+            th {
+                background-color: #f4f4f4;
+            }
+            .form-group {
+                margin-bottom: 10px;
+            }
+            .form-group label {
+                display: block;
+                font-weight: bold;
+            }
+            .form-group input[type="text"] {
+                width: 100%;
+                padding: 6px;
+                box-sizing: border-box;
+            }
+            .pagination {
+                margin-top: 10px;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Library Web Service Client</h1>
+        <!-- Feedback / Error Display Box-->
+        <div id="feedbackBox" class="box error-box"></div>
+        <!-- Filter & Collection Section-->
+        <div class="box">
+            <h2>Book Inventory</h2>
+            <div>
+                <input type="text" id="filterAuthor" placeholder="Filter by author (e.g. Tolkien)" />
+                <button onclick="applyFilter()">Search</button>
+                <button onclick="resetFilter()">Reset</button>
+            </div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Title</th>
+                        <th>Author</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="bookTableBody"></tbody>
+            </table>
+            <div class="pagination">
+                <button id="prevBtn" onclick="changePage(-1)">Previous</button>
+                <span id="pageInfo">Page 1 of 1</span>
+                <button id="nextBtn" onclick="changePage(1)">Next</button>
+            </div>
+        </div>
+        <!-- Create Book Form-->
+        <div class="box">
+            <h2>Add a New Book</h2>
+            <form id="addBookForm" novalidate>
+                <div class="form-group">
+                    <label>Title:</label>
+                    <input type="text" id="bookTitle" placeholder="Enter book title" />
+                </div>
+                <div class="form-group">
+                    <label>Author:</label>
+                    <input type="text" id="bookAuthor" placeholder="Enter author name" />
+                </div>
+                <div class="form-group">
+                    <label>
+                        <input type="checkbox" id="bookAvailable" checked />
+                        Available for checkout
+                    </label>
+                </div>
+                <button type="submit">Create Book</button>
+            </form>
+        </div>
+        <script src="app.js"></script>
+    </body>
+</html>
