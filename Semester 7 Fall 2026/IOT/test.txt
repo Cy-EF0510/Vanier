@@ -1,0 +1,43 @@
+test
+2-3 scenarios where you have to choose the best wireless technology
+cheap
+practicality/affordability
+
+permanent? expensive, passive
+temporary? must be cheap
+
+9 wireless technologies
+
+Passive UHF RFID
+BLE
+UWB
+Camera
+Active RFID
+
+knowing the technologies
+passive rfid
+Bluetooth
+
+wheelchair
+ble ips
+
+identifying patients: stays and goes
+barcode
+passive hf rfid
+
+Nurses: stays for a long time
+uhf
+active 
+bl 
+uwb
+
+infusion pump
+ble ips
+any active rfid
+
+Medications and implants
+uhf rfid
+barcode
+
+export expert wants to do inventory management
+passive uhf rfid
